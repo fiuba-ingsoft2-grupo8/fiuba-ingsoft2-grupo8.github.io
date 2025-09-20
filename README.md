@@ -84,6 +84,41 @@ Se utilizan secretos de Github para compartir variables de entorno.
 - **Build automatizado:** Generación de APK/IPA en cada release
 - **Distribución:** Deploy manual del APK
 
+## 🏗️ Infraestructura y Servicios
+
+Nuestro ecosistema utiliza una infraestructura cloud híbrida optimizada para escalabilidad y costo-efectividad:
+
+### 🖥️ Compute & Hosting
+
+#### **Amazon EC2 - Instancias t3.micro**
+- **user-api:** Microservicio de gestión de usuarios
+- **content-api:** Microservicio de gestión de contenido
+- **backoffice:** Aplicación web administrativa
+
+**Características:**
+- ⚡ 1 GB de memoria RAM y capacidad de CPU escalable
+- 🌍 Región AWS optimizada para latencia en América del Sur
+- 🔒 Configuración con security groups restrictivos
+
+### 🗄️ Bases de Datos
+
+#### **Supabase - PostgreSQL**
+- 🔧 **Uso:** Base de datos relacional principal
+- ✅ **Beneficios:** Backend-as-a-Service con autenticación integrada, APIs REST automáticas
+- 🔐 **Seguridad:** Row Level Security (RLS) y conexiones SSL/TLS
+
+#### **MongoDB Atlas - Hosteado en AWS**
+- 🔧 **Uso:** Base de datos NoSQL para datos no estructurados
+- ✅ **Beneficios:** Escalabilidad horizontal, consultas flexibles
+- 🌐 **Integración:** Mismo proveedor cloud para minimizar latencia
+
+### 📦 Registry & Contenedores
+
+#### **Docker Hub**
+- 🏷️ **Registro de imágenes:** Almacenamiento centralizado de contenedores
+- 🔄 **Versionado:** Gestión semántica de releases
+- ⚡ **Optimización:** Imágenes multi-stage para reducir tamaño
+
 ## ⚙️ Microservicios Planificados
 
 Los siguientes microservicios componen el ecosistema del proyecto:
