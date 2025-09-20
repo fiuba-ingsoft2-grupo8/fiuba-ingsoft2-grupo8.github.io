@@ -39,6 +39,13 @@ Actualmente la arquitectura esta formada por los siguientes servicios:
 
 ![](img/arquitectura.png)
 
+La versión final incorporara los siguientes elementos:
+- Grafana: recibira los logs de todos los servicios y se podrán generar dashboards para mejorar la visibilidad sobre todo el sistema
+- Firebase: para poder almacenar los archivos multimedia
+- chat-api: se encargara de la funcionalidad de chat
+- notifications-api: se encargara de la funcionalidad de notificaciones
+- player-api: se encargara de la función de reproducir canciones
+
 ## ♾️ CI/CD
 
 ![CI/CD](img/cicd.png)
