@@ -212,6 +212,8 @@ En este primer checkpoint trabajo en el desarrollo inicial, y conexiones a servi
 
 #### Joaquín
 
+Trabaje en las APIs del backend, el flujo CI/CD y en la infraestructura:
+
 1. ✅ Crear organización en Github
 2. ✅ Levantar instancias en AWS EC2 para user-api, content-api y el backoffice
 3. ✅ Levantar bases de datos en Supabase (PostgreSQL) y Atlas (MongoDB)
