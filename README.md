@@ -86,7 +86,7 @@ Se utilizan secretos de Github para compartir variables de entorno.
 
 ## 🏗️ Infraestructura y Servicios
 
-Nuestro ecosistema utiliza una infraestructura cloud híbrida optimizada para escalabilidad y costo-efectividad:
+Nuestro ecosistema utiliza una infraestructura cloud:
 
 ### 🖥️ Compute & Hosting
 
@@ -96,7 +96,7 @@ Nuestro ecosistema utiliza una infraestructura cloud híbrida optimizada para es
 - **backoffice:** Aplicación web administrativa
 
 **Características:**
-- ⚡ 1 GB de memoria RAM y capacidad de CPU escalable
+- ⚡ 2 GB de memoria RAM
 - 🌍 Región AWS optimizada para latencia en América del Sur
 - 🔒 Configuración con security groups restrictivos
 
@@ -109,7 +109,7 @@ Nuestro ecosistema utiliza una infraestructura cloud híbrida optimizada para es
 
 #### **MongoDB Atlas - Hosteado en AWS**
 - 🔧 **Uso:** Base de datos NoSQL para datos no estructurados
-- ✅ **Beneficios:** Escalabilidad horizontal, consultas flexibles
+- ✅ **Beneficios:** consultas flexibles
 - 🌐 **Integración:** Mismo proveedor cloud para minimizar latencia
 
 ### 📦 Registry & Contenedores
@@ -130,7 +130,7 @@ Los siguientes microservicios componen el ecosistema del proyecto:
 - 📂 **Contenido.**  
 - 📊 **Monitoreo.**
 
-Cada uno de ellos está diseñado para ser **autónomo** y **escalable**, alineado con las mejores prácticas de desarrollo distribuido.
+Cada uno de ellos está diseñado para ser **autónomo**, alineado con las mejores prácticas de desarrollo distribuido.
 
 ## 📂 Repositorios del Proyecto
 
