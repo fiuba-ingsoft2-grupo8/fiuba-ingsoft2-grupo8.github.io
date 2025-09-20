@@ -25,11 +25,19 @@ La idea principal es **englobar los conceptos más grandes** y dejar asentada un
 ### 📌 Diagrama General de Arquitectura
 
 #### Arquitectura actual
-![CI/CD](img/arquitectura_actual.png)
+![](img/arquitectura_actual.png)
+
+Actualmente la arquitectura esta formada por los siguientes servicios:
+- Mobile app: app mobile que se conecta a user-api y content-api
+- Backoffice: pagina web para dministrar
+- user-api: para gestionar usuarios
+- content-api: para gestionar contenido como artistas, canciones y playlists
+- PostgreSQL
+- MongoDB
 
 #### Arquitectura final
 
-![CI/CD](img/arquitectura.png)
+![](img/arquitectura.png)
 
 ## ♾️ CI/CD
 
