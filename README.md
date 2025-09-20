@@ -29,7 +29,7 @@ La idea principal es **englobar los conceptos más grandes** y dejar asentada un
 
 #### Arquitectura final
 
-[COMPLETAR CON DIAGRAMA]
+![CI/CD](img/arquitectura.png)
 
 ## ♾️ CI/CD
 
