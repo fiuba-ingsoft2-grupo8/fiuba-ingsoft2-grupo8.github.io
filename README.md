@@ -23,10 +23,13 @@ La idea principal es **englobar los conceptos más grandes** y dejar asentada un
 ## 🏗️ Arquitectura Global
 
 ### 📌 Diagrama General de Arquitectura
-*(A continuación se debe insertar el diagrama con la propuesta de microservicios, bases de datos y demás componentes.)*
 
-[ACA VA DIAGRAMA DE ARQUITECTURA GENERAL PROPUESTA]
-[ACA VA LA EXPLICACIÓN DEL DIAGRAMA]
+#### Arquitectura actual
+![CI/CD](img/arquitectura_actual.png)
+
+#### Arquitectura final
+
+[COMPLETAR CON DIAGRAMA]
 
 ## ♾️ CI/CD
 
