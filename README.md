@@ -188,6 +188,36 @@ Este cronograma puede adaptarse según los resultados de cada sprint, pero sirve
 - 📝 Confirmar que todos los **microservicios generan logs consistentes**.  
 - 📊 Verificar el correcto funcionamiento de las **métricas en todo el sistema**.  
 
+## 📅 Cronograma Real
+
+### 🔹 Primer Checkpoint (4 semanas)
+
+#### Camila
+
+X.
+
+#### Esteban
+
+X.
+
+#### Felipe
+
+En este primer checkpoint trabajo en el desarrollo inicial, y conexiones a servicios, de la 'App Mobile':
+
+1. ✅ Capacitación inicial en TypeScript, React, React Native y JavaScript.
+2. ✅ Reuniones de equipo para comprender en profundidad el enunciado.
+3. ✅ Definición de arquitectura → elección de Expo por sus ventajas en desarrollo móvil.
+4. ✅ Configuración de entorno local y emuladores Android.
+5. ✅ Desarrollo de las primeras pantallas y conexión con APIs (local y en la nube).
+
+#### Joaquín
+
+X.
+
+#### Martín
+
+X.
+
 ## 🏆 Conclusión
 
 Este repositorio refleja la **visión global** del proyecto Melodía, alineado con las mejores prácticas de **ingeniería de software**, con foco en:  
