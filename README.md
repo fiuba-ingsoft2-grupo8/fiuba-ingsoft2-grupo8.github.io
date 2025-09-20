@@ -212,7 +212,14 @@ En este primer checkpoint trabajo en el desarrollo inicial, y conexiones a servi
 
 #### Joaquín
 
-X.
+1. ✅ Crear organización en Github
+2. ✅ Levantar instancias en AWS EC2 para user-api, content-api y el backoffice
+3. ✅ Levantar bases de datos en Supabase (PostgreSQL) y Atlas (MongoDB)
+4. ✅ Configurar estructura inicial (Dockerfile, Docker Compose, Makefile, etc) de user-api y content-api
+5. ✅ Desarrollar endpoints básicos para la user-api
+6. ✅ Configurar Github Runners
+7. ✅ Configurar CI/CD para user-api y content-api
+8. ✅ Documentar diagrama de arquitectura y CI/CD
 
 #### Martín
 
