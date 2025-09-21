@@ -209,11 +209,19 @@ Este cronograma puede adaptarse según los resultados de cada sprint, pero sirve
 
 #### Camila
 
-X.
+
+1. ✅ Armado de la estructura del endpoint. Database, Controller, Model, Schema
+2. ✅ Desarrollo de endpoints de songs
+3. ✅ Armado de las pruebas y debugging en local
+4. ✅ Configuración del testing para deploy
+5. ✅ Documentación sobre stack elegido
 
 #### Esteban
 
-X.
+1. ✅ Puesta en marcha del repositorio con Docker para local y remoto
+2. ✅ Conexión con MongoDB desde content-api
+3. ✅ Armado del deploy para produccion
+4. ✅ Desarrollo de endpoints de playlist
 
 #### Felipe
 
