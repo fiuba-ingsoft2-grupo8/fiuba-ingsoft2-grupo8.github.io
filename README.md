@@ -248,7 +248,14 @@ Trabaje en las APIs del backend, el flujo CI/CD y en la infraestructura:
 
 #### Martín
 
-X.
+1. ✅ Creación del repositorio con un Backoffice muy básico 
+2. ✅ Levantar el backoffice con un compose que funcionaba para hacer pruebas de manera local
+3. ✅ Levantar el backoffice con el compose-remote que se conectaba con la base de datos y le pegaba a los Endpoints de la API del usuario
+4. ✅ Emprolijar un poco el frontend (botoón y título)
+5. ✅ Creacion de un archivo CI que corre un Linter al pushear
+6. ✅ Creación del archivo CD para que al pushear o realizar un pr a main se haga el Deploy a AWS.
+7. ✅ Documentar bien el Readme, explicando como se levanta el backoffice y justificaciones del stack elegido.
+   
 
 ## 🏆 Conclusión
 
