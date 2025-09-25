@@ -171,7 +171,8 @@ Este cronograma puede adaptarse según los resultados de cada sprint, pero sirve
 - 🔑 Implementar el **sistema de autenticación de usuarios** mediante **OAuth + JWT**.  
 - 🌐 Desarrollar el **API Gateway** para la comunicación entre microservicios.
 - 📈 Desarrollar el **Servicio de Métricas** para monitorear el sistema.  
-- 🎨 Definir y documentar los **bocetos de las vistas** principales de la aplicación.  
+- 🎨 Definir y documentar los **bocetos de las vistas** principales de la aplicación. 
+- 📁 Implementar **Firebase**
 
 **Épicas incluidas:**
 - Usuarios.  
