@@ -27,6 +27,10 @@ La idea principal es **englobar los conceptos más grandes** y dejar asentada un
 #### Arquitectura actual
 ![](img/arquitectura_actual.png)
 
+#### Arquitectura
+
+![](img/arquitectura.png)
+
 Actualmente la arquitectura esta formada por los siguientes servicios:
 - Mobile app: app mobile que se conecta a user-api y content-api
 - Backoffice: pagina web para dministrar
@@ -34,13 +38,9 @@ Actualmente la arquitectura esta formada por los siguientes servicios:
 - content-api: para gestionar contenido como artistas, canciones y playlists
 - PostgreSQL
 - MongoDB
-
-#### Arquitectura final
-
-![](img/arquitectura.png)
+- Datadog: recibira los logs de todos los servicios y se podrán generar dashboards para mejorar la visibilidad sobre todo el sistema
 
 La versión final incorporara los siguientes elementos:
-- Grafana: recibira los logs de todos los servicios y se podrán generar dashboards para mejorar la visibilidad sobre todo el sistema
 - Firebase: para poder almacenar los archivos multimedia
 - chat-api: se encargara de la funcionalidad de chat
 - notifications-api: se encargara de la funcionalidad de notificaciones
