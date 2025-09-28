@@ -22,13 +22,6 @@ La idea principal es **englobar los conceptos más grandes** y dejar asentada un
 
 ## 🏗️ Arquitectura Global
 
-### 📌 Diagrama General de Arquitectura
-
-#### Arquitectura actual
-![](img/arquitectura_actual.png)
-
-#### Arquitectura
-
 ![](img/arquitectura.png)
 
 Actualmente la arquitectura esta formada por los siguientes servicios:
