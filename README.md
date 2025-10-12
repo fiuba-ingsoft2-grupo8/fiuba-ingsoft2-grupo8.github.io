@@ -25,19 +25,19 @@ La idea principal es **englobar los conceptos más grandes** y dejar asentada un
 ![](img/arquitectura.png)
 
 Actualmente la arquitectura esta formada por los siguientes servicios:
-- Mobile app: app mobile que se conecta a user-api y content-api
-- Backoffice: pagina web para dministrar
-- user-api: para gestionar usuarios
-- content-api: para gestionar contenido como artistas, canciones y playlists
-- PostgreSQL
-- MongoDB
-- Datadog: recibira los logs de todos los servicios y se podrán generar dashboards para mejorar la visibilidad sobre todo el sistema
+- Mobile app: App mobile que se conecta a 'user-api' y 'content-api'.
+- Backoffice: Página web para administrar.
+- user-api: Gestión de usuarios.
+- content-api: Gestión de contenido como artistas, canciones y playlists.
+- PostgreSQL.
+- MongoDB.
+- Datadog: Recibe los logs de todos los servicios y se generan dashboards para mejorar la visibilidad sobre todo el sistema.
 
 La versión final incorporara los siguientes elementos:
-- Firebase: para poder almacenar los archivos multimedia
-- chat-api: se encargara de la funcionalidad de chat
-- notifications-api: se encargara de la funcionalidad de notificaciones
-- player-api: se encargara de la función de reproducir canciones
+- Firebase: Almacenamiento de los archivos multimedia.
+- chat-api: Se encarga de la funcionalidad de chat.
+- notifications-api: Se encarga de la funcionalidad de notificaciones.
+- player-api: Se encarga de la función de reproducir canciones.
 
 ## ♾️ CI/CD
 
@@ -52,13 +52,13 @@ El flujo de CI corre cada vez que se realiza un PR o un cambio en las ramas main
 **Infraestructura:** Utilizamos **GitHub Actions** con runners hosteados por GitHub, proporcionando mayor velocidad y confiabilidad.
 
 **Pipeline de CI incluye:**
-- 🧪 **Testing automatizado:** Cobertura mínima del 75% con reportes automáticos en cada PR
-- ✅ **Validaciones de calidad:** Linters, formatters y análisis estático de código  
+- 🧪 **Testing automatizado:** Cobertura mínima del 75% con reportes automáticos en cada PR.
+- ✅ **Validaciones de calidad:** Linters, formatters y análisis estático de código.
 
 **Flujo específico por tecnología:**
-- **Backend (Node.js/Python):** Jest/PyTest + ESLint/Pylint + SonarQube
-- **Frontend (React Native):** Jest + ESLint + Expo CLI validations  
-- **Docker:** Hadolint para validación de Dockerfiles
+- **Backend (Node.js/Python):** Jest/PyTest + ESLint/Pylint + SonarQube.
+- **Frontend (React Native):** Jest + ESLint + Expo CLI validations.
+- **Docker:** Hadolint para validación de Dockerfiles.
 
 ### 🚀 Continuous Deployment (CD)
 
@@ -67,33 +67,33 @@ El flujo de CD corre luego de realizar un merge o un push en la rama main.
 **Proceso automatizado en dos etapas:**
 
 1. **Build & Registry:**
-   - 📦 Construcción de imagen Docker optimizada (multi-stage builds)
-   - ⬆️ Push automatizado a **Docker Hub** con versionado
+   - 📦 Construcción de imagen Docker optimizada (multi-stage builds).
+   - ⬆️ Push automatizado a **Docker Hub** con versionado.
 
 2. **Deployment:**
-   - 🔄 Pull de la nueva imagen desde el registro
-   - 🗑️ Eliminación controlada del contenedor anterior
-   - 🟢 Despliegue con **zero-downtime** usando health checks
-   - 🔐 Gestión segura de variables de entorno via **GitHub Secrets**
+   - 🔄 Pull de la nueva imagen desde el registro.
+   - 🗑️ Eliminación controlada del contenedor anterior.
+   - 🟢 Despliegue con **zero-downtime** usando health checks.
+   - 🔐 Gestión segura de variables de entorno via **GitHub Secrets**.
 
 Se utilizan secretos de Github para compartir variables de entorno.
 
 ### ♟️ Estrategias CI/CD por Componente
 
 #### 📊 Microservicios (Backend)
-- **CI/CD completo:** Pipeline integral con testing, build y deployment automatizado
-- **Testing robusto:** Pruebas unitarias y de integración con **cobertura mínima del 75%**
-- **Deployment:** deployment en AWS EC2
-- **Monitoreo:** Health checks, logs estructurados y métricas de performance
+- **CI/CD completo:** Pipeline integral con testing, build y deployment automatizado.
+- **Testing robusto:** Pruebas unitarias y de integración con **cobertura mínima del 75%**.
+- **Deployment:** Deployment en AWS EC2.
+- **Monitoreo:** Health checks, logs estructurados y métricas de performance.
 
 #### 🖥️ Backoffice (Web)
-- **CI robusto:** Linting, testing y análisis de bundle size
-- **Deployment:** deployment en AWS EC2
+- **CI robusto:** Linting, testing y análisis de bundle size.
+- **Deployment:** Deployment en AWS EC2.
 
 #### 📱 Aplicación Móvil (React Native + Expo)
-- **CI enfocado en calidad:** Validaciones de linter y formatter
-- **Build automatizado:** Generación de APK/IPA en cada release
-- **Distribución:** Deploy manual del APK
+- **CI enfocado en calidad:** Validaciones de linter y formatter.
+- **Build automatizado:** Generación de APK/IPA en cada release.
+- **Distribución:** Deploy manual del APK.
 
 ## 🏗️ Infraestructura y Servicios
 
@@ -102,33 +102,33 @@ Nuestro ecosistema utiliza una infraestructura cloud:
 ### 🖥️ Compute & Hosting
 
 #### **Amazon EC2 - Instancias t3.micro**
-- **user-api:** Microservicio de gestión de usuarios
-- **content-api:** Microservicio de gestión de contenido
-- **backoffice:** Aplicación web administrativa
+- **user-api:** Microservicio de gestión de usuarios.
+- **content-api:** Microservicio de gestión de contenido.
+- **backoffice:** Aplicación web administrativa.
 
 **Características:**
-- ⚡ 2 GB de memoria RAM
-- 🌍 Región AWS optimizada para latencia en América del Sur
-- 🔒 Configuración con security groups restrictivos
+- ⚡ 2 GB de memoria RAM.
+- 🌍 Región AWS optimizada para latencia en América del Sur.
+- 🔒 Configuración con security groups restrictivos.
 
 ### 🗄️ Bases de Datos
 
 #### **Supabase - PostgreSQL**
-- 🔧 **Uso:** Base de datos relacional principal
-- ✅ **Beneficios:** Backend-as-a-Service con autenticación integrada, APIs REST automáticas
-- 🔐 **Seguridad:** Row Level Security (RLS) y conexiones SSL/TLS
+- 🔧 **Uso:** Base de datos relacional principal.
+- ✅ **Beneficios:** Backend-as-a-Service con autenticación integrada, APIs REST automáticas.
+- 🔐 **Seguridad:** Row Level Security (RLS) y conexiones SSL/TLS.
 
 #### **MongoDB Atlas - Hosteado en AWS**
-- 🔧 **Uso:** Base de datos NoSQL para datos no estructurados
-- ✅ **Beneficios:** consultas flexibles
-- 🌐 **Integración:** Mismo proveedor cloud para minimizar latencia
+- 🔧 **Uso:** Base de datos NoSQL para datos no estructurados.
+- ✅ **Beneficios:** consultas flexibles.
+- 🌐 **Integración:** Mismo proveedor cloud para minimizar latencia.
 
 ### 📦 Registry & Contenedores
 
 #### **Docker Hub**
-- 🏷️ **Registro de imágenes:** Almacenamiento centralizado de contenedores
-- 🔄 **Versionado:** Gestión semántica de releases
-- ⚡ **Optimización:** Imágenes multi-stage para reducir tamaño
+- 🏷️ **Registro de imágenes:** Almacenamiento centralizado de contenedores.
+- 🔄 **Versionado:** Gestión semántica de releases.
+- ⚡ **Optimización:** Imágenes multi-stage para reducir tamaño.
 
 ## ⚙️ Microservicios Planificados
 
@@ -205,18 +205,18 @@ Este cronograma puede adaptarse según los resultados de cada sprint, pero sirve
 #### Camila
 
 
-1. ✅ Armado de la estructura del endpoint. Database, Controller, Model, Schema
-2. ✅ Desarrollo de endpoints de songs
-3. ✅ Armado de las pruebas y debugging en local
-4. ✅ Configuración del testing para deploy
-5. ✅ Documentación sobre stack elegido
+1. ✅ Armado de la estructura del endpoint. Database, Controller, Model, Schema.
+2. ✅ Desarrollo de endpoints de songs.
+3. ✅ Armado de las pruebas y debugging en local.
+4. ✅ Configuración del testing para deploy.
+5. ✅ Documentación sobre stack elegido.
 
 #### Esteban
 
-1. ✅ Puesta en marcha del repositorio con Docker para local y remoto
-2. ✅ Conexión con MongoDB desde content-api
-3. ✅ Armado del deploy para produccion
-4. ✅ Desarrollo de endpoints de playlist
+1. ✅ Puesta en marcha del repositorio con Docker para local y remoto.
+2. ✅ Conexión con MongoDB desde content-api.
+3. ✅ Armado del deploy para produccion.
+4. ✅ Desarrollo de endpoints de playlist.
 
 #### Felipe
 
@@ -232,22 +232,22 @@ En este primer checkpoint trabajo en el desarrollo inicial, y conexiones a servi
 
 Trabaje en las APIs del backend, el flujo CI/CD y en la infraestructura:
 
-1. ✅ Crear organización en Github
-2. ✅ Levantar instancias en AWS EC2 para user-api, content-api y el backoffice
-3. ✅ Levantar bases de datos en Supabase (PostgreSQL) y Atlas (MongoDB)
-4. ✅ Configurar estructura inicial (Dockerfile, Docker Compose, Makefile, etc) de user-api y content-api
-5. ✅ Desarrollar endpoints básicos para la user-api
-6. ✅ Configurar Github Runners
-7. ✅ Configurar CI/CD para user-api y content-api
-8. ✅ Documentar diagrama de arquitectura y CI/CD
+1. ✅ Crear organización en Github.
+2. ✅ Levantar instancias en AWS EC2 para user-api, content-api y el backoffice.
+3. ✅ Levantar bases de datos en Supabase (PostgreSQL) y Atlas (MongoDB).
+4. ✅ Configurar estructura inicial (Dockerfile, Docker Compose, Makefile, etc) de user-api y content-api.
+5. ✅ Desarrollar endpoints básicos para la user-api.
+6. ✅ Configurar Github Runners.
+7. ✅ Configurar CI/CD para user-api y content-api.
+8. ✅ Documentar diagrama de arquitectura y CI/CD.
 
 #### Martín
 
-1. ✅ Creación del repositorio con un Backoffice muy básico 
-2. ✅ Levantar el backoffice con un compose que funcionaba para hacer pruebas de manera local
-3. ✅ Levantar el backoffice con el compose-remote que se conectaba con la base de datos y le pegaba a los Endpoints de la API del usuario
-4. ✅ Emprolijar un poco el frontend (botoón y título)
-5. ✅ Creacion de un archivo CI que corre un Linter al pushear
+1. ✅ Creación del repositorio con un Backoffice muy básico.
+2. ✅ Levantar el backoffice con un compose que funcionaba para hacer pruebas de manera local.
+3. ✅ Levantar el backoffice con el compose-remote que se conectaba con la base de datos y le pegaba a los Endpoints de la API del usuario.
+4. ✅ Emprolijar un poco el frontend (botoón y título).
+5. ✅ Creacion de un archivo CI que corre un Linter al pushear.
 6. ✅ Creación del archivo CD para que al pushear o realizar un pr a main se haga el Deploy a AWS.
 7. ✅ Documentar bien el Readme, explicando como se levanta el backoffice y justificaciones del stack elegido.
    
