@@ -157,6 +157,8 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 ![WIP](https://img.shields.io/badge/WIP-yellow)
 ![TODO](https://img.shields.io/badge/TODO-red)
 
+### Obligatorias
+
 
 | # | Historia | Épica | Estado |
 |---|----------|-------|--------|
@@ -189,18 +191,37 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 28 | Toggle de Liked desde el player | Reproducción | ![DONE](https://img.shields.io/badge/DONE-green) |
 | 29 | Métricas de usuario (panel + export) | Métricas | ![TODO](https://img.shields.io/badge/TODO-red) |
 
-### 📊 Estado de las Épicas
+### Opcionales
 
-- **Usuarios**: ✅ Completada
-- **Perfil**: ✅ Completada  
-- **Notificaciones**: 🔄 En progreso
-- **Adm. Usuarios**: ✅ Completada
-- **Adm. Contenido**: ✅ Completada
-- **Artistas**: ✅ Completada
-- **Explorar**: ✅ Completada
-- **Biblioteca**: ✅ Completada
-- **Reproducción**: 🔄 En progreso
-- **Métricas**: ✅ Completada
+| # | Historia | Épica | Puntos | Estado |
+|---|----------|-------|--------|--------|
+| 1 | Login con proveedor federado | Usuarios | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 2 | Ver perfil de otros usuarios | Perfil | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 3 | Deep links avanzados en notificaciones | Notificaciones | 5 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 4 | Perfil detallado (admin) | Adm. Usuarios | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 5 | Disponibilidad por región/ventana (backoffice) | Adm. Contenido | 5 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 6 | Bloqueo/desbloqueo con alcance | Adm. Contenido | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 7 | Métricas de canciones/álbumes | Métricas | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 9 | Colaboraciones / "Aparece en" | Artistas | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 10 | Disponibilidad por territorios/ventana (creators) | Artistas | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 11 | Autocompletar metadatos (Fast Complete) [IA] | Artistas | 5 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 12 | Explorar Home (base) | Explorar | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 13 | "New release from {Artist}" | Explorar | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 14 | "Discover more from {Artist}" | Explorar | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 15 | Made For You (Discover/Daily Mix) | Explorar | 8 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 16 | Mood Mixes asistidos [IA] | Biblioteca | 5 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 17 | Videos musicales asociados | Reproducción | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 18 | Reproducción On-Demand (multidispositivo) | Reproducción | 5 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 19 | Reproducción continua (autoplay sin cola) [IA] | Reproducción | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 20 | Seguir/Dejar de seguir usuarios | Social | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 21 | Feed de actividad de amigos (+ filtros) | Social | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 22 | Compartir canciones/playlists | Social | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 23 | Playlists temáticas por contexto | Vibras | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 24 | Radio por canción [IA] | Vibras | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 25 | Auto Play (nuevo contexto de 15 canciones) [IA] | Vibras | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 26 | Onboarding: géneros favoritos | Onboarding | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 27 | Onboarding: artistas favoritos | Onboarding | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 28 | Onboarding: preferencias de notificaciones | Onboarding | 1 | ![TODO](https://img.shields.io/badge/TODO-red) |
 
 ## 📂 Repositorios del Proyecto
 
