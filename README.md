@@ -27,17 +27,15 @@ La idea principal es **englobar los conceptos más grandes** y dejar asentada un
 Actualmente la arquitectura esta formada por los siguientes servicios:
 - Mobile app: App mobile que se conecta a 'user-api' y 'content-api'.
 - Backoffice: Página web para administrar.
-- user-api: Gestión de usuarios.
-- content-api: Gestión de contenido como artistas, canciones y playlists.
+- User API: Gestión de usuarios.
+- Content API: Gestión de contenido como artistas, canciones y playlists.
+- Player API: Gestión de la reproducción de las canciones.
+- Chat API: Gestión de los chats entre usuarios.
+- Notification API: Gestión del sistema de notificaciones.
 - PostgreSQL.
 - MongoDB.
+- Firebase.
 - Datadog: Recibe los logs de todos los servicios y se generan dashboards para mejorar la visibilidad sobre todo el sistema.
-
-La versión final incorporara los siguientes elementos:
-- Firebase: Almacenamiento de los archivos multimedia.
-- chat-api: Se encarga de la funcionalidad de chat.
-- notifications-api: Se encarga de la funcionalidad de notificaciones.
-- player-api: Se encarga de la función de reproducir canciones.
 
 ## ♾️ CI/CD
 
@@ -105,6 +103,9 @@ Nuestro ecosistema utiliza una infraestructura cloud:
 - **user-api:** Microservicio de gestión de usuarios.
 - **content-api:** Microservicio de gestión de contenido.
 - **backoffice:** Aplicación web administrativa.
+- **player-api:** Microservicio de gestión de reproducción.
+- **chat-api:** Microservicio de gestión de chats.
+- **notifications-api:** Microservicio de gestión de notificaciones.
 
 **Características:**
 - ⚡ 2 GB de memoria RAM.
@@ -122,6 +123,11 @@ Nuestro ecosistema utiliza una infraestructura cloud:
 - 🔧 **Uso:** Base de datos NoSQL para datos no estructurados.
 - ✅ **Beneficios:** consultas flexibles.
 - 🌐 **Integración:** Mismo proveedor cloud para minimizar latencia.
+
+#### **Firebase*
+- 🔧 **Uso:** Gestión de las notificaciones de usuario.
+- ✅ **Beneficios:** Fácil integrabilidad con 'Expo Go'.
+- 🌐 **Integración:** Hosteado en Google Cloud.
 
 ### 📦 Registry & Contenedores
 
@@ -150,7 +156,10 @@ Cada uno de ellos está diseñado para ser **autónomo**, alineado con las mejor
 - 📱 **melodia-app-mobile** → Aplicación móvil desarrollada en React Native + Expo.  
 - 🖥️ **melodia-backoffice** → Aplicación web de backoffice utilizada por administradores para interactuar con el sistema.  
 - 📂 **content-api** → Microservicio encargado de la gestión de contenido (playlists, canciones, etc.).  
-- 👥 **user-api** → Microservicio encargado de la gestión de usuarios.    
+- 👥 **user-api** → Microservicio encargado de la gestión de usuarios.
+- 🎵 **player-api** → Microservicio encargado de la gestión de reproducción.
+- 💬 **chat-api** → Microservicio encargado de la gestión de chats.
+- 🔔 **notifications-api** → Microservicio encargado de la gestión de notificaciones.
 
 ## 📅 Cronograma Tentativo
 
@@ -202,8 +211,15 @@ Este cronograma puede adaptarse según los resultados de cada sprint, pero sirve
 
 ### 🔹 Primer Checkpoint (4 semanas)
 
-#### Camila
+#### Objetivos del Sprint
 
+1. En esta primera entrega se alcanzó la integración inicial entre el 'Backend', 'Backoffice' y la 'Aplicación Mobile'.
+2. Se hizo el despliegue de todos los microservicios en la nube.
+3. Se generó todo el flujo de 'CI/CD' en ambos microservicios.
+4. Se inicializaron ambas bases de datos.
+5. Se definió la arquitectura a seguir.
+
+#### Camila
 
 1. ✅ Armado de la estructura del endpoint. Database, Controller, Model, Schema.
 2. ✅ Desarrollo de endpoints de songs.
@@ -217,10 +233,9 @@ Este cronograma puede adaptarse según los resultados de cada sprint, pero sirve
 2. ✅ Conexión con MongoDB desde content-api.
 3. ✅ Armado del deploy para produccion.
 4. ✅ Desarrollo de endpoints de playlist.
+5. ✅ Documentación integral de los repositorios del Backend.
 
 #### Felipe
-
-En este primer checkpoint trabajo en el desarrollo inicial, y conexiones a servicios, de la 'App Mobile':
 
 1. ✅ Capacitación inicial en TypeScript, React, React Native y JavaScript.
 2. ✅ Reuniones de equipo para comprender en profundidad el enunciado.
@@ -229,8 +244,6 @@ En este primer checkpoint trabajo en el desarrollo inicial, y conexiones a servi
 5. ✅ Desarrollo de las primeras pantallas y conexión con APIs (local y en la nube).
 
 #### Joaquín
-
-Trabaje en las APIs del backend, el flujo CI/CD y en la infraestructura:
 
 1. ✅ Crear organización en Github.
 2. ✅ Levantar instancias en AWS EC2 para user-api, content-api y el backoffice.
@@ -250,7 +263,62 @@ Trabaje en las APIs del backend, el flujo CI/CD y en la infraestructura:
 5. ✅ Creacion de un archivo CI que corre un Linter al pushear.
 6. ✅ Creación del archivo CD para que al pushear o realizar un pr a main se haga el Deploy a AWS.
 7. ✅ Documentar bien el Readme, explicando como se levanta el backoffice y justificaciones del stack elegido.
-   
+
+### 🔹 Segundo Checkpoint (4 semanas)
+
+#### Objetivos del Sprint
+
+1. Creación de todos los microservicios restantes.
+2. Realizó el despliegue de las métricas.
+3. Integró la funcionalidad de gestión y reproducción canciones en la 'Aplicación Mobile' y el 'Backoffice'.
+4. Implementaron las funcionalidades de administración de usuarios y contenido en el 'Backoffice'.
+5. Redefinición del scope de las entidades.
+6. Añadido del sistema de autenticación.
+7. Conexión de 'Firebase' y 'Datadog' con el resto del sistema.
+
+#### Camila
+
+1. ✅ Bocetos del 'Home'.
+2. ✅ Backend de la Biblioteca.
+3. ✅ Lógica de gestión de imágenes.
+4. ✅ Refactorización de la funcionalidad de la Playlists.
+5. ✅ Integración de la 'Content API' con la 'Player API' desde el lado de la 'Content API'.
+
+#### Esteban
+
+1. ✅ Integración de la 'Content API' con la 'Player API' desde el lado de la 'Player API'.
+2. ✅ Desarrollo de la 'Player API'.
+3. ✅ Gestión de las canciones.
+4. ✅ Relevamiento de los criterios de aceptación para las distintas funcionalidades.
+5. ✅ Redefinición del scope del Sprint.
+
+#### Felipe
+
+1. ✅ Estrucutra inicial de la 'Chat API'.
+2. ✅ Estructura inicial de la 'Notification API'.
+3. ✅ Creación de 'Supabase' e 'Firebase'.
+4. ✅ Desarrollo de las vistas del 'Home' y los 'Perfiles'.
+5. ✅ Integración de las nuevas 'APIs' con la 'Aplicación Mobile'.
+6. ✅ Integración del sistema de autenticación en la 'Aplicación Mobile'.
+
+#### Joaquín
+
+1. ✅ CI/CD de la 'Chat API'.
+2. ✅ CI/CD de la 'Notification API'.
+3. ✅ CI/CD de la 'Player API'.
+4. ✅ Implementación de API Gateway.
+5. ✅ Despliegue de las métricas y logs en Datadog de todos los servicios.
+6. ✅ Implementación de token de autorización.
+7. ✅ Reseteo de contraseña con código por mail.
+8. ✅ Implementación de la gestión de perfiles.
+
+#### Martín
+
+1. ✅ Implementación de la administración de usuarios.
+2. ✅ Implementación de la administración de contenido.
+3. ✅ Integración del sistema de autenticación en el 'Backoffice'.
+4. ✅ Diseño 'UX/UI' de la interfaz del 'Backoffice'.
+5. ✅ Testing integral del funcionamiento de las 'APIs'.
 
 ## 🏆 Conclusión
 
