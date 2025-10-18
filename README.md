@@ -149,6 +149,59 @@ Los siguientes microservicios componen el ecosistema del proyecto:
 
 Cada uno de ellos está diseñado para ser **autónomo**, alineado con las mejores prácticas de desarrollo distribuido.
 
+## 📚 Historias
+
+La siguiente tabla presenta las historias de usuario organizadas por épicas, con su estado actual de desarrollo:
+
+![DONE](https://img.shields.io/badge/DONE-green)
+![WIP](https://img.shields.io/badge/WIP-yellow)
+![TODO](https://img.shields.io/badge/TODO-red)
+
+
+| # | Historia | Épica | Estado |
+|---|----------|-------|--------|
+| 1 | Registro de usuarios | Usuarios | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 2 | Login con email y contraseña | Usuarios | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 3 | Recupero de contraseña | Usuarios | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 4 | Edición de perfil | Perfil | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 5 | Visualización de perfil propio | Perfil | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 6 | Centro + preferencias + disparadores esenciales | Notificaciones | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 7 | Listar usuarios del sistema | Adm. Usuarios | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 8 | Bloquear/Desbloquear usuario | Adm. Usuarios | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 9 | Catálogo: listar/buscar/filtrar | Adm. Contenido | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 10 | Contenido: detalle y trazabilidad | Adm. Contenido | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 11 | Transiciones y estado efectivo | Adm. Contenido | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 12 | Perfil del artista | Artistas | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 13 | Discografía | Artistas | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 14 | Popular (Top del artista) | Artistas | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 16 | Gestión de perfil del artista | Artistas | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 17 | Publicación de lanzamientos | Artistas | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 18 | Búsqueda unificada por tipo | Explorar | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 19 | Navegación a vistas de detalle | Explorar | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 20 | Creación y gestión de playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 21 | Reordenamiento en playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 22 | Historial de reproducción | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 23 | Liked Songs | Biblioteca | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 24 | Colecciones guardadas | Biblioteca | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 25 | Reproducción y controles básicos | Reproducción | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 26 | Controles avanzados del player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 27 | Gestión de cola | Reproducción | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 28 | Toggle de Liked desde el player | Reproducción | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 29 | Métricas de usuario (panel + export) | Métricas | ![TODO](https://img.shields.io/badge/TODO-red) |
+
+### 📊 Estado de las Épicas
+
+- **Usuarios**: ✅ Completada
+- **Perfil**: ✅ Completada  
+- **Notificaciones**: 🔄 En progreso
+- **Adm. Usuarios**: ✅ Completada
+- **Adm. Contenido**: ✅ Completada
+- **Artistas**: ✅ Completada
+- **Explorar**: ✅ Completada
+- **Biblioteca**: ✅ Completada
+- **Reproducción**: 🔄 En progreso
+- **Métricas**: ✅ Completada
+
 ## 📂 Repositorios del Proyecto
 
 - 📘 **fiuba-ingsoft2-grupo8.github.io** → Repositorio actual que contiene la documentación integral.  
