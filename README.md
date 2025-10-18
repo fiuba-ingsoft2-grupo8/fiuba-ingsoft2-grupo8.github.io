@@ -34,6 +34,7 @@ Actualmente la arquitectura esta formada por los siguientes servicios:
 - Notification API: Gestión del sistema de notificaciones.
 - PostgreSQL.
 - MongoDB.
+- Supabase.
 - Firebase.
 - Datadog: Recibe los logs de todos los servicios y se generan dashboards para mejorar la visibilidad sobre todo el sistema.
 
