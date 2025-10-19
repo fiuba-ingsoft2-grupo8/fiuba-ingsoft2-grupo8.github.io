@@ -183,12 +183,12 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 20 | Creación y gestión de playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 21 | Reordenamiento en playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 22 | Historial de reproducción | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 23 | Liked Songs | Biblioteca | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 23 | Liked Songs | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 24 | Colecciones guardadas | Biblioteca | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 25 | Reproducción y controles básicos | Reproducción | ![DONE](https://img.shields.io/badge/DONE-green) |
 | 26 | Controles avanzados del player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 27 | Gestión de cola | Reproducción | ![TODO](https://img.shields.io/badge/TODO-red) |
-| 28 | Toggle de Liked desde el player | Reproducción | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 28 | Toggle de Liked desde el player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 29 | Métricas de usuario (panel + export) | Métricas | ![TODO](https://img.shields.io/badge/TODO-red) |
 
 ### Historias Opcionales
