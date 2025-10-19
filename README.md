@@ -158,8 +158,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 ![WIP](https://img.shields.io/badge/WIP-yellow)
 ![TODO](https://img.shields.io/badge/TODO-red)
 
-### Obligatorias
-
+### Historias Obligatorias
 
 | # | Historia | Épica | Estado |
 |---|----------|-------|--------|
@@ -192,7 +191,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 28 | Toggle de Liked desde el player | Reproducción | ![DONE](https://img.shields.io/badge/DONE-green) |
 | 29 | Métricas de usuario (panel + export) | Métricas | ![TODO](https://img.shields.io/badge/TODO-red) |
 
-### Opcionales
+### Historias Opcionales
 
 | # | Historia | Épica | Puntos | Estado |
 |---|----------|-------|--------|--------|
@@ -223,6 +222,13 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 26 | Onboarding: géneros favoritos | Onboarding | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 27 | Onboarding: artistas favoritos | Onboarding | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 28 | Onboarding: preferencias de notificaciones | Onboarding | 1 | ![TODO](https://img.shields.io/badge/TODO-red) |
+
+### Historias indefinidas
+
+| # | Historia | Épica | Puntos | Estado |
+|---|----------|-------|--------|--------|
+| 1 | Artistas relacionados (Similares a) | Artistas | ? | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 2 | Métricas de artista (panel + export) | Métricas | ? | ![TODO](https://img.shields.io/badge/TODO-red) |
 
 ## 📂 Repositorios del Proyecto
 
