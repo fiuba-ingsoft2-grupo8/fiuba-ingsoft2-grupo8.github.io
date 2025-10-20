@@ -154,9 +154,10 @@ Cada uno de ellos está diseñado para ser **autónomo**, alineado con las mejor
 
 La siguiente tabla presenta las historias de usuario organizadas por épicas, con su estado actual de desarrollo:
 
-![DONE](https://img.shields.io/badge/DONE-green)
-![WIP](https://img.shields.io/badge/WIP-yellow)
 ![TODO](https://img.shields.io/badge/TODO-red)
+![WIP](https://img.shields.io/badge/WIP-yellow)
+![DONE](https://img.shields.io/badge/DONE-green)
+![FINISHED](https://img.shields.io/badge/FINISHED-purple)
 
 ### Historias Obligatorias
 
@@ -170,8 +171,8 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 6 | Centro + preferencias + disparadores esenciales | Notificaciones | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 7 | Listar usuarios del sistema | Adm. Usuarios | ![DONE](https://img.shields.io/badge/DONE-green) |
 | 8 | Bloquear/Desbloquear usuario | Adm. Usuarios | ![DONE](https://img.shields.io/badge/DONE-green) |
-| 9 | Catálogo: listar/buscar/filtrar | Adm. Contenido | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 10 | Contenido: detalle y trazabilidad | Adm. Contenido | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 9 | Catálogo: Listar/buscar/filtrar | Adm. Contenido | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 10 | Contenido: Detalle y trazabilidad | Adm. Contenido | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 11 | Transiciones y estado efectivo | Adm. Contenido | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 12 | Perfil del artista | Artistas | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 13 | Discografía | Artistas | ![TODO](https://img.shields.io/badge/TODO-red) |
@@ -181,7 +182,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 18 | Búsqueda unificada por tipo | Explorar | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 19 | Navegación a vistas de detalle | Explorar | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 20 | Creación y gestión de playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 21 | Reordenamiento en playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 21 | Reordenamiento en playlists | Biblioteca | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 22 | Historial de reproducción | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 23 | Liked Songs | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 24 | Colecciones guardadas | Biblioteca | ![TODO](https://img.shields.io/badge/TODO-red) |
@@ -196,7 +197,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | # | Historia | Épica | Puntos | Estado |
 |---|----------|-------|--------|--------|
 | 1 | Login con proveedor federado | Usuarios | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
-| 2 | Ver perfil de otros usuarios | Perfil | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 2 | Ver perfil de otros usuarios | Perfil | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 3 | Deep links avanzados en notificaciones | Notificaciones | 5 | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 4 | Perfil detallado (admin) | Adm. Usuarios | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 5 | Disponibilidad por región/ventana (backoffice) | Adm. Contenido | 5 | ![TODO](https://img.shields.io/badge/TODO-red) |
