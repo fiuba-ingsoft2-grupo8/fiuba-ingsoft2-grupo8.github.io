@@ -197,7 +197,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | # | Historia | Épica | Puntos | Estado |
 |---|----------|-------|--------|--------|
 | 1 | Login con proveedor federado | Usuarios | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
-| 2 | Ver perfil de otros usuarios | Perfil | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 2 | Ver perfil de otros usuarios | Perfil | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 3 | Deep links avanzados en notificaciones | Notificaciones | 5 | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 4 | Perfil detallado (admin) | Adm. Usuarios | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 5 | Disponibilidad por región/ventana (backoffice) | Adm. Contenido | 5 | ![TODO](https://img.shields.io/badge/TODO-red) |
