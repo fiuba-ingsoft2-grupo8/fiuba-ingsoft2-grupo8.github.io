@@ -174,10 +174,10 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 9 | Catálogo: Listar/buscar/filtrar | Adm. Contenido | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 10 | Contenido: Detalle y trazabilidad | Adm. Contenido | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 11 | Transiciones y estado efectivo | Adm. Contenido | ![TODO](https://img.shields.io/badge/TODO-red) |
-| 12 | Perfil del artista | Artistas | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 12 | Perfil del artista | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 13 | Discografía | Artistas | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 14 | Popular (Top del artista) | Artistas | ![TODO](https://img.shields.io/badge/TODO-red) |
-| 16 | Gestión de perfil del artista | Artistas | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 16 | Gestión de perfil del artista | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 17 | Publicación de lanzamientos | Artistas | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 18 | Búsqueda unificada por tipo | Explorar | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 19 | Navegación a vistas de detalle | Explorar | ![TODO](https://img.shields.io/badge/TODO-red) |
@@ -214,7 +214,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 17 | Videos musicales asociados | Reproducción | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 18 | Reproducción On-Demand (multidispositivo) | Reproducción | 5 | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 19 | Reproducción continua (autoplay sin cola) [IA] | Reproducción | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
-| 20 | Seguir/Dejar de seguir usuarios | Social | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 20 | Seguir/Dejar de seguir usuarios | Social | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 21 | Feed de actividad de amigos (+ filtros) | Social | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 22 | Compartir canciones/playlists | Social | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 23 | Playlists temáticas por contexto | Vibras | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
