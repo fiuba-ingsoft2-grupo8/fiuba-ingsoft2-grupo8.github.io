@@ -30,7 +30,6 @@ Actualmente la arquitectura esta formada por los siguientes servicios:
 - User API: Gestión de usuarios.
 - Content API: Gestión de contenido como artistas, canciones y playlists.
 - Player API: Gestión de la reproducción de las canciones.
-- Chat API: Gestión de los chats entre usuarios.
 - Notification API: Gestión del sistema de notificaciones.
 - PostgreSQL.
 - MongoDB.
@@ -105,7 +104,6 @@ Nuestro ecosistema utiliza una infraestructura cloud:
 - **content-api:** Microservicio de gestión de contenido.
 - **backoffice:** Aplicación web administrativa.
 - **player-api:** Microservicio de gestión de reproducción.
-- **chat-api:** Microservicio de gestión de chats.
 - **notifications-api:** Microservicio de gestión de notificaciones.
 
 **Características:**
@@ -140,8 +138,7 @@ Nuestro ecosistema utiliza una infraestructura cloud:
 ## ⚙️ Microservicios Planificados
 
 Los siguientes microservicios componen el ecosistema del proyecto:
-
-- 💬 **Chat.**  
+  
 - 🎵 **Reproducción.**  
 - 🔔 **Notificaciones.**  
 - 👤 **Usuarios.**  
@@ -239,7 +236,6 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 - 📂 **content-api** → Microservicio encargado de la gestión de contenido (playlists, canciones, etc.).  
 - 👥 **user-api** → Microservicio encargado de la gestión de usuarios.
 - 🎵 **player-api** → Microservicio encargado de la gestión de reproducción.
-- 💬 **chat-api** → Microservicio encargado de la gestión de chats.
 - 🔔 **notifications-api** → Microservicio encargado de la gestión de notificaciones.
 
 ## 📅 Cronograma Tentativo
@@ -375,7 +371,7 @@ Este cronograma puede adaptarse según los resultados de cada sprint, pero sirve
 
 #### Felipe
 
-1. ✅ Estrucutra inicial de la 'Chat API'.
+1. ✅ Estrucutra inicial de la 'Chat API' (Mas adelante se modificó el enunciado y se descartó el microservicio del scope).
 2. ✅ Estructura inicial de la 'Notification API'.
 3. ✅ Creación de 'Supabase' e 'Firebase'.
 4. ✅ Desarrollo de las vistas del 'Home' y los 'Perfiles'.
@@ -384,7 +380,7 @@ Este cronograma puede adaptarse según los resultados de cada sprint, pero sirve
 
 #### Joaquín
 
-1. ✅ CI/CD de la 'Chat API'.
+1. ✅ CI/CD de la 'Chat API' (Mas adelante se modificó el enunciado y se descartó el microservicio del scope)..
 2. ✅ CI/CD de la 'Notification API'.
 3. ✅ CI/CD de la 'Player API'.
 4. ✅ Implementación de API Gateway.
