@@ -172,10 +172,10 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 10 | Contenido: Detalle y trazabilidad | Adm. Contenido | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 11 | Transiciones y estado efectivo | Adm. Contenido | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 12 | Perfil del artista | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 13 | Discografía | Artistas | ![TODO](https://img.shields.io/badge/TODO-red) |
-| 14 | Popular (Top del artista) | Artistas | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 13 | Discografía | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 14 | Popular (Top del artista) | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 16 | Gestión de perfil del artista | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 17 | Publicación de lanzamientos | Artistas | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 17 | Publicación de lanzamientos | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 18 | Búsqueda unificada por tipo | Explorar | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 19 | Navegación a vistas de detalle | Explorar | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 20 | Creación y gestión de playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
@@ -186,7 +186,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 26 | Controles avanzados del player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 27 | Gestión de cola | Reproducción | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 28 | Toggle de Liked desde el player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 29 | Métricas de usuario (panel + export) | Métricas | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 29 | Métricas de usuario (panel + export) | Métricas | ![yellow](https://img.shields.io/badge/yellow-yellow) |
 
 ### Historias Opcionales
 
