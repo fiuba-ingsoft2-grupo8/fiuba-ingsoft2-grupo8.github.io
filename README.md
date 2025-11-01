@@ -186,7 +186,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 26 | Controles avanzados del player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 27 | Gestión de cola | Reproducción | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 28 | Toggle de Liked desde el player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 29 | Métricas de usuario (panel + export) | Métricas | ![yellow](https://img.shields.io/badge/yellow-yellow) |
+| 29 | Métricas de usuario (panel + export) | Métricas | ![yellow](https://img.shields.io/badge/WIP-yellow) |
 
 ### Historias Opcionales
 
