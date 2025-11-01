@@ -176,7 +176,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 14 | Popular (Top del artista) | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 16 | Gestión de perfil del artista | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 17 | Publicación de lanzamientos | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 18 | Búsqueda unificada por tipo | Explorar | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 18 | Búsqueda unificada por tipo | Explorar | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 19 | Navegación a vistas de detalle | Explorar | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 20 | Creación y gestión de playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 21 | Reordenamiento en playlists | Biblioteca | ![TODO](https://img.shields.io/badge/TODO-red) |
