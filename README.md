@@ -188,7 +188,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 28 | Toggle de Liked desde el player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 29 | Métricas de usuario (panel + export) | Métricas | ![yellow](https://img.shields.io/badge/WIP-yellow) |
 
-### Historias Opcionales
+### Historias Opcionales (Se requieren 50 puntos)
 
 | # | Historia | Épica | Puntos | Estado |
 |---|----------|-------|--------|--------|
