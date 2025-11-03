@@ -207,7 +207,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 14 | "Discover more from {Artist}" | Explorar | 2 | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 15 | Made For You (Discover/Daily Mix) | Explorar | 8 | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 16 | Mood Mixes asistidos [IA] | Biblioteca | 5 | ![TODO](https://img.shields.io/badge/TODO-red) |
-| 17 | Videos musicales asociados | Reproducción | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 17 | Videos musicales asociados | Reproducción | 8 | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 18 | Reproducción On-Demand (multidispositivo) | Reproducción | 5 | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 19 | Reproducción continua (autoplay sin cola) [IA] | Reproducción | 3 | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 20 | Seguir/Dejar de seguir usuarios | Social | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) |
