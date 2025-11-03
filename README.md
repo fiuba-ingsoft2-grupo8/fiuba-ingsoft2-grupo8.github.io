@@ -392,6 +392,35 @@ Este cronograma puede adaptarse según los resultados de cada sprint, pero sirve
 4. ✅ Diseño 'UX/UI' de la interfaz del 'Backoffice'.
 5. ✅ Testing integral del funcionamiento de las 'APIs'.
 
+### 🔹 Tercer Checkpoint (3.5 semanas)
+
+1. Integración de todos los logs en una única plataforma (Datadog).
+2. Implementación de todas las historias obligatorias en la 'Aplicación Móvil' (Backend + Frontend).
+3. Implementación de todas las historias obligatorias en el 'Backoffice' (Backend + Frontend).
+4. Elección de las historias optativas a implementar, en base a el MVP desarrollado.
+5. Eliminación del microservicio 'Chat API' (Por cambio de enunciado).
+6. Añadido del sistema de autorización y autenticación en todos los microservicios.
+
+#### Camila
+
+1. ✅
+
+#### Esteban
+
+1. ✅
+
+#### Felipe
+
+1. ✅
+
+#### Joaquín
+
+1. ✅
+
+#### Martín
+
+1. ✅
+
 ## 🏆 Conclusión
 
 Este repositorio refleja la **visión global** del proyecto Melodía, alineado con las mejores prácticas de **ingeniería de software**, con foco en:  
