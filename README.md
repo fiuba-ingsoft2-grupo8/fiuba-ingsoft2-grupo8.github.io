@@ -403,23 +403,45 @@ Este cronograma puede adaptarse según los resultados de cada sprint, pero sirve
 
 #### Camila
 
-1. ✅
+1. ✅ Creación del sistema de subida de imágenes.
+2. ✅ Rediseño de la gestión de colecciones.
+3. ✅ Pulida de bocetos visuales.
+4. ✅ Diseño del menú desplegable en la Aplicación.
+5. ✅ Desarrollo de los endpoints de Explorar.
 
 #### Esteban
 
-1. ✅
+1. ✅ Creación del sistema de subida de canciones.
+2. ✅ Desarollo de los endpoints de Biblioteca.
+3. ✅ Desarrollo de los endpoints de Reproducción.
+4. ✅ Diseño de funcionalidades desde la interfaz gráfico.
+5. ✅ Control de consistencia en las bases de datos.
 
 #### Felipe
 
-1. ✅
+1. ✅ Desarollo de los endpoints de Notificaciones.
+2. ✅ Diseño de funcionalidades desde la interfaz gráfico.
+3. ✅ Integración de el sistema de Notificaciones en la Aplicación Móvil.
+4. ✅ Integración de las historias de Contenido obligatorias en la Aplicación Móvil.
+5. ✅ Integración de las historias de Usuarios obligatorias en la Aplicación Móvil.
+6. ✅ Integración de las historias de Notificaciones obligatorias en la Aplicación Móvil.
 
 #### Joaquín
 
-1. ✅
+1. ✅ Integración de todos los logs en una única plataforma (Datadog).
+2. ✅ Desarrollo de los endpoints de perfil de Usuario.
+3. ✅ Desarrollo de los endpoints de perfil de Artista.
+4. ✅ Desarrollo de los endpoints de métricas.
+5. ✅ Añadido de los sistemas de autenticación y autorización en los microservicios restantes.
+6. ✅ Creación del sistema de subida de imágenes.
 
 #### Martín
 
-1. ✅
+1. ✅ Desarollo de los endpoints de Administración de Contenido.
+2. ✅ Desarollo de los endpoints de Administración de Usuarios.
+3. ✅ Integración de los endpoints de Administración en el Backoffice.
+4. ✅ Integración de los endpoints de Métricas de usuario en el Backoffice.
+5. ✅ Testing de usuario de la Aplicación Móvil.
 
 ## 🏆 Conclusión
 
