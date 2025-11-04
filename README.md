@@ -168,23 +168,23 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 6 | Centro + preferencias + disparadores esenciales | Notificaciones | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 7 | Listar usuarios del sistema | Adm. Usuarios | ![DONE](https://img.shields.io/badge/DONE-green) |
 | 8 | Bloquear/Desbloquear usuario | Adm. Usuarios | ![DONE](https://img.shields.io/badge/DONE-green) |
-| 9 | Catálogo: Listar/buscar/filtrar | Adm. Contenido | ![TODO](https://img.shields.io/badge/TODO-red) |
-| 10 | Contenido: Detalle y trazabilidad | Adm. Contenido | ![TODO](https://img.shields.io/badge/TODO-red) |
-| 11 | Transiciones y estado efectivo | Adm. Contenido | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 9 | Catálogo: Listar/buscar/filtrar | Adm. Contenido | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 10 | Contenido: Detalle y trazabilidad | Adm. Contenido | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 11 | Transiciones y estado efectivo | Adm. Contenido | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 12 | Perfil del artista | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 13 | Discografía | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 14 | Popular (Top del artista) | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 16 | Gestión de perfil del artista | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 17 | Publicación de lanzamientos | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 18 | Búsqueda unificada por tipo | Explorar | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 19 | Navegación a vistas de detalle | Explorar | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 19 | Navegación a vistas de detalle | Explorar | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 20 | Creación y gestión de playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 21 | Reordenamiento en playlists | Biblioteca | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 21 | Reordenamiento en playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 22 | Historial de reproducción | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 23 | Liked Songs | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 25 | Reproducción y controles básicos | Reproducción | ![DONE](https://img.shields.io/badge/DONE-green) |
 | 26 | Controles avanzados del player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 27 | Gestión de cola | Reproducción | ![TODO](https://img.shields.io/badge/TODO-red) |
+| 27 | Gestión de cola | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 28 | Toggle de Liked desde el player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 29 | Métricas de usuario (panel + export) | Métricas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 
