@@ -170,12 +170,12 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 4 | Edición de perfil | Perfil | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 5 | Visualización de perfil propio | Perfil | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 6 | Centro + preferencias + disparadores esenciales | Notificaciones | ![TODO](https://img.shields.io/badge/TODO-red) |
-| 7 | Listar usuarios del sistema | Adm. Usuarios | ![DONE](https://img.shields.io/badge/DONE-green) |
-| 8 | Bloquear/Desbloquear usuario | Adm. Usuarios | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 7 | Listar usuarios del sistema | Adm. Usuarios | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 8 | Bloquear/Desbloquear usuario | Adm. Usuarios | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 9 | Catálogo: Listar/buscar/filtrar | Adm. Contenido | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 10 | Contenido: Detalle y trazabilidad | Adm. Contenido | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 11 | Transiciones y estado efectivo | Adm. Contenido | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 12 | Perfil del artista | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 12 | Perfil del artista | Artistas | ![DONE](https://img.shields.io/badge/DONE-green) |
 | 13 | Discografía | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 14 | Popular (Top del artista) | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 15 | Gestión de perfil del artista | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
