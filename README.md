@@ -186,7 +186,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 19 | Creación y gestión de playlists | Biblioteca | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 20 | Reordenamiento en playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 21 | Historial de reproducción | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 22 | Liked Songs | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 22 | Liked Songs | Biblioteca | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 23 | Reproducción y controles básicos | Reproducción | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 24 | Controles avanzados del player | Reproducción | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 25 | Gestión de cola | Reproducción | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
