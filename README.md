@@ -190,7 +190,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 23 | Reproducción y controles básicos | Reproducción | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 24 | Controles avanzados del player | Reproducción | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 25 | Gestión de cola | Reproducción | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
-| 26 | Toggle de Liked desde el player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 26 | Toggle de Liked desde el player | Reproducción | ![DONE](https://img.shields.io/badge/DONE-green) |
 | 27 | Métricas de usuario (panel + export) | Métricas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 
 ### Historias Opcionales (Se requieren 50 puntos)
