@@ -183,7 +183,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 16 | Publicación de lanzamientos | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 17 | Búsqueda unificada por tipo | Explorar | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 18 | Navegación a vistas de detalle | Explorar | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 19 | Creación y gestión de playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 19 | Creación y gestión de playlists | Biblioteca | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 20 | Reordenamiento en playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 21 | Historial de reproducción | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 22 | Liked Songs | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
