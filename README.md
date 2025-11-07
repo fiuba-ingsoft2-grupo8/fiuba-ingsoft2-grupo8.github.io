@@ -151,10 +151,14 @@ Cada uno de ellos está diseñado para ser **autónomo**, alineado con las mejor
 
 La siguiente tabla presenta las historias de usuario organizadas por épicas, con su estado actual de desarrollo:
 
-![TODO](https://img.shields.io/badge/TODO-red)
-![WIP](https://img.shields.io/badge/WIP-yellow)
-![DONE](https://img.shields.io/badge/DONE-green)
-![FINISHED](https://img.shields.io/badge/FINISHED-purple)
+*Historia de usuario sin ninguna implementación:*  ![TODO](https://img.shields.io/badge/TODO-red)
+
+*Historia de usuario implementada en el Back-End:* ![WIP](https://img.shields.io/badge/WIP-yellow)
+
+*Historia de usuario integrada en el Front-End:* ![DONE](https://img.shields.io/badge/DONE-green)
+
+*Historia de usuario que cumple con todos los criterios de aceptación:* ![FINISHED](https://img.shields.io/badge/FINISHED-purple)
+
 
 ### Historias Obligatorias
 
@@ -174,19 +178,19 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 12 | Perfil del artista | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 13 | Discografía | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 14 | Popular (Top del artista) | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 16 | Gestión de perfil del artista | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 17 | Publicación de lanzamientos | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 18 | Búsqueda unificada por tipo | Explorar | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 19 | Navegación a vistas de detalle | Explorar | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 20 | Creación y gestión de playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 21 | Reordenamiento en playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 22 | Historial de reproducción | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 23 | Liked Songs | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 25 | Reproducción y controles básicos | Reproducción | ![DONE](https://img.shields.io/badge/DONE-green) |
-| 26 | Controles avanzados del player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 27 | Gestión de cola | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 28 | Toggle de Liked desde el player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 29 | Métricas de usuario (panel + export) | Métricas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 15 | Gestión de perfil del artista | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 16 | Publicación de lanzamientos | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 17 | Búsqueda unificada por tipo | Explorar | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 18 | Navegación a vistas de detalle | Explorar | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 19 | Creación y gestión de playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 20 | Reordenamiento en playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 21 | Historial de reproducción | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 22 | Liked Songs | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 23 | Reproducción y controles básicos | Reproducción | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 24 | Controles avanzados del player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 25 | Gestión de cola | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 26 | Toggle de Liked desde el player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 27 | Métricas de usuario (panel + export) | Métricas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 
 ### Historias Opcionales (Se requieren 50 puntos)
 
