@@ -164,9 +164,9 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 
 | # | Historia | Épica | Estado |
 |---|----------|-------|--------|
-| 1 | Registro de usuarios | Usuarios | ![FINISHED](https://img.shields.io/badge/FINISHED-purple)
-| 2 | Login con email y contraseña | Usuarios | ![DONE](https://img.shields.io/badge/DONE-green) |
-| 3 | Recupero de contraseña | Usuarios | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 1 | Registro de usuarios | Usuarios | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
+| 2 | Login con email y contraseña | Usuarios | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
+| 3 | Recupero de contraseña | Usuarios | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 4 | Edición de perfil | Perfil | ![DONE](https://img.shields.io/badge/DONE-green) |
 | 5 | Visualización de perfil propio | Perfil | ![DONE](https://img.shields.io/badge/DONE-green) |
 | 6 | Centro + preferencias + disparadores esenciales | Notificaciones | ![TODO](https://img.shields.io/badge/TODO-red) |
