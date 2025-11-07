@@ -167,8 +167,8 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 1 | Registro de usuarios | Usuarios | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 2 | Login con email y contraseña | Usuarios | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 3 | Recupero de contraseña | Usuarios | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
-| 4 | Edición de perfil | Perfil | ![DONE](https://img.shields.io/badge/DONE-green) |
-| 5 | Visualización de perfil propio | Perfil | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 4 | Edición de perfil | Perfil | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
+| 5 | Visualización de perfil propio | Perfil | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 6 | Centro + preferencias + disparadores esenciales | Notificaciones | ![TODO](https://img.shields.io/badge/TODO-red) |
 | 7 | Listar usuarios del sistema | Adm. Usuarios | ![DONE](https://img.shields.io/badge/DONE-green) |
 | 8 | Bloquear/Desbloquear usuario | Adm. Usuarios | ![DONE](https://img.shields.io/badge/DONE-green) |
