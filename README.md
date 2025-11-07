@@ -157,8 +157,9 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 
 *Historia de usuario integrada en el Front-End:* ![DONE](https://img.shields.io/badge/DONE-green)
 
-*Historia de usuario descartadas (optativas sobrantes):* ![DISCARDED](https://img.shields.io/badge/DISCARDED-black)
+*Historia de usuario que cumple con todos los criterios de aceptación:* ![FINISHED](https://img.shields.io/badge/FINISHED-purple)
 
+*Historia de usuario descartadas (optativas sobrantes):* ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray)
 
 ### Historias Obligatorias
 
