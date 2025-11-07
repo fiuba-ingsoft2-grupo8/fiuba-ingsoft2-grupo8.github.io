@@ -186,7 +186,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 20 | Reordenamiento en playlists | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 21 | Historial de reproducción | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 22 | Liked Songs | Biblioteca | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 23 | Reproducción y controles básicos | Reproducción | ![DONE](https://img.shields.io/badge/DONE-green) |
+| 23 | Reproducción y controles básicos | Reproducción | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 24 | Controles avanzados del player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 25 | Gestión de cola | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 26 | Toggle de Liked desde el player | Reproducción | ![WIP](https://img.shields.io/badge/WIP-yellow) |
