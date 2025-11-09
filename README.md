@@ -22,7 +22,7 @@ La idea principal es **englobar los conceptos más grandes** y dejar asentada un
 
 ## 🏗️ Arquitectura Global
 
-![](img/arquitectura.png)
+![](img/arquitectura-final.png)
 
 Actualmente la arquitectura esta formada por los siguientes servicios:
 - Mobile app: App mobile que se conecta a 'user-api' y 'content-api'.
