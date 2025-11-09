@@ -171,11 +171,11 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 4 | Edición de perfil | Perfil | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 5 | Visualización de perfil propio | Perfil | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 6 | Centro + preferencias + disparadores esenciales | Notificaciones | ![TODO](https://img.shields.io/badge/TODO-red) |
-| 7 | Listar usuarios del sistema | Adm. Usuarios | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 8 | Bloquear/Desbloquear usuario | Adm. Usuarios | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 9 | Catálogo: Listar/buscar/filtrar | Adm. Contenido | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 10 | Contenido: Detalle y trazabilidad | Adm. Contenido | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 11 | Transiciones y estado efectivo | Adm. Contenido | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 7 | Listar usuarios del sistema | Adm. Usuarios | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
+| 8 | Bloquear/Desbloquear usuario | Adm. Usuarios | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
+| 9 | Catálogo: Listar/buscar/filtrar | Adm. Contenido | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
+| 10 | Contenido: Detalle y trazabilidad | Adm. Contenido | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
+| 11 | Transiciones y estado efectivo | Adm. Contenido | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 12 | Perfil del artista | Artistas | ![DONE](https://img.shields.io/badge/DONE-green) |
 | 13 | Discografía | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 14 | Popular (Top del artista) | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
@@ -191,7 +191,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 24 | Controles avanzados del player | Reproducción | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 25 | Gestión de cola | Reproducción | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 26 | Toggle de Liked desde el player | Reproducción | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
-| 27 | Métricas de usuario (panel + export) | Métricas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 27 | Métricas de usuario (panel + export) | Métricas | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 
 ### Historias Opcionales (Se requieren 50 puntos)
 
