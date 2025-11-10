@@ -178,8 +178,8 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 10 | Contenido: Detalle y trazabilidad | Adm. Contenido | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 11 | Transiciones y estado efectivo | Adm. Contenido | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 12 | Perfil del artista | Artistas | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
-| 13 | Discografía | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
-| 14 | Popular (Top del artista) | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
+| 13 | Discografía | Artistas | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
+| 14 | Popular (Top del artista) | Artistas | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 15 | Gestión de perfil del artista | Artistas | ![WIP](https://img.shields.io/badge/WIP-yellow) |
 | 16 | Publicación de lanzamientos | Artistas | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 17 | Búsqueda unificada por tipo | Explorar | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
