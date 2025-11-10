@@ -206,28 +206,28 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 5 | Disponibilidad por región/ventana (backoffice) | Adm. Contenido | 5 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 6 | Bloqueo/desbloqueo con alcance | Adm. Contenido | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 7 | Métricas de canciones/álbumes | Métricas | 3 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 8 | Métricas de artista (panel + export) | Métricas | 5 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 9 | Colaboraciones / "Aparece en" | Artistas | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
 | 10 | Disponibilidad por territorios/ventana (creators) | Artistas | 3 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 11 | Autocompletar metadatos (Fast Complete) [IA] | Artistas | 5 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
-| 12 | Explorar Home (base) | Explorar | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 13 | "New release from {Artist}" | Explorar | 2 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
-| 14 | "Discover more from {Artist}" | Explorar | 2 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
-| 15 | Made For You (Discover/Daily Mix) | Explorar | 8 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
-| 16 | Mood Mixes asistidos [IA] | Biblioteca | 5 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
-| 17 | Videos musicales asociados | Reproducción | 8 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 18 | Reproducción On-Demand (multidispositivo) | Reproducción | 5 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
-| 19 | Reproducción continua (autoplay sin cola) [IA] | Reproducción | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
-| 20 | Seguir/Dejar de seguir usuarios | Social | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 21 | Feed de actividad de amigos (+ filtros) | Social | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 22 | Compartir canciones/playlists | Social | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 23 | Playlists temáticas por contexto | Vibras | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
-| 24 | Radio por canción [IA] | Vibras | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
-| 25 | Auto Play (nuevo contexto de 15 canciones) [IA] | Vibras | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
-| 26 | Onboarding: géneros favoritos | Onboarding | 2 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 27 | Onboarding: artistas favoritos | Onboarding | 2 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 28 | Onboarding: preferencias de notificaciones | Onboarding | 1 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 29 | Artistas relacionados (Similares a) | Artistas | 4 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 30 | Métricas de artista (panel + export) | Métricas | 5 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 12 | Artistas relacionados (Similares a) | Artistas | 4 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 13 | Explorar Home (base) | Explorar | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 14 | "New release from {Artist}" | Explorar | 2 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
+| 15 | "Discover more from {Artist}" | Explorar | 2 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
+| 16 | Made For You (Discover/Daily Mix) | Explorar | 8 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
+| 17 | Mood Mixes asistidos [IA] | Biblioteca | 5 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
+| 18 | Videos musicales asociados | Reproducción | 8 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 19 | Reproducción On-Demand (multidispositivo) | Reproducción | 5 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
+| 20 | Reproducción continua (autoplay sin cola) [IA] | Reproducción | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
+| 21 | Seguir/Dejar de seguir usuarios | Social | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 22 | Feed de actividad de amigos (+ filtros) | Social | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 23 | Compartir canciones/playlists | Social | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 24 | Playlists temáticas por contexto | Vibras | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
+| 25 | Radio por canción [IA] | Vibras | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
+| 26 | Auto Play (nuevo contexto de 15 canciones) [IA] | Vibras | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
+| 27 | Onboarding: géneros favoritos | Onboarding | 2 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 28 | Onboarding: artistas favoritos | Onboarding | 2 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 29 | Onboarding: preferencias de notificaciones | Onboarding | 1 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 
 ## 📂 Repositorios del Proyecto
 
