@@ -25,7 +25,7 @@ La idea principal es **englobar los conceptos más grandes** y dejar asentada un
 ![](img/arquitectura-final.png)
 
 Actualmente la arquitectura esta formada por los siguientes servicios:
-- Mobile app: App mobile que se conecta a 'user-api' y 'content-api'.
+- Mobile app: App mobile que se conecta a las distintas apis del backend.
 - Backoffice: Página web para administrar.
 - User API: Gestión de usuarios.
 - Content API: Gestión de contenido como artistas, canciones y playlists.
@@ -54,9 +54,8 @@ El flujo de CI corre cada vez que se realiza un PR o un cambio en las ramas main
 - ✅ **Validaciones de calidad:** Linters, formatters y análisis estático de código.
 
 **Flujo específico por tecnología:**
-- **Backend (Node.js/Python):** Jest/PyTest + ESLint/Pylint + SonarQube.
+- **Backend (Node.js/Python/Go):** Jest/PyTest/Go test.
 - **Frontend (React Native):** Jest + ESLint + Expo CLI validations.
-- **Docker:** Hadolint para validación de Dockerfiles.
 
 ### 🚀 Continuous Deployment (CD)
 
@@ -102,13 +101,13 @@ Nuestro ecosistema utiliza una infraestructura cloud:
 #### **Amazon EC2 - Instancias t3.micro**
 - **user-api:** Microservicio de gestión de usuarios.
 - **content-api:** Microservicio de gestión de contenido.
-- **backoffice:** Aplicación web administrativa.
 - **player-api:** Microservicio de gestión de reproducción.
 - **notifications-api:** Microservicio de gestión de notificaciones.
+- **backoffice:** Aplicación web administrativa.
 
 **Características:**
 - ⚡ 2 GB de memoria RAM.
-- 🌍 Región AWS optimizada para latencia en América del Sur.
+- 🌍 Región AWS us-east-2 (Ohio).
 - 🔒 Configuración con security groups restrictivos.
 
 ### 🗄️ Bases de Datos
@@ -123,7 +122,7 @@ Nuestro ecosistema utiliza una infraestructura cloud:
 - ✅ **Beneficios:** consultas flexibles.
 - 🌐 **Integración:** Mismo proveedor cloud para minimizar latencia.
 
-#### **Firebase*
+#### **Firebase**
 - 🔧 **Uso:** Gestión de las notificaciones de usuario.
 - ✅ **Beneficios:** Fácil integrabilidad con 'Expo Go'.
 - 🌐 **Integración:** Hosteado en Google Cloud.
