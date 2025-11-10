@@ -422,6 +422,7 @@ Este cronograma puede adaptarse según los resultados de cada sprint, pero sirve
 3. ✅ Desarrollo de los endpoints de Reproducción.
 4. ✅ Diseño de funcionalidades desde la interfaz gráfico.
 5. ✅ Control de consistencia en las bases de datos.
+6. ✅ Sistema de Búsqueda.
 
 #### Felipe
 
