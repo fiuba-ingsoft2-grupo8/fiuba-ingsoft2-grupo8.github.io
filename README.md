@@ -219,7 +219,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 19 | Reproducción On-Demand (multidispositivo) | Reproducción | 5 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
 | 20 | Reproducción continua (autoplay sin cola) [IA] | Reproducción | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
 | 21 | Seguir/Dejar de seguir usuarios | Social | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 22 | Feed de actividad de amigos (+ filtros) | Social | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 22 | Feed de actividad de amigos (+ filtros) | Social | 3 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 23 | Compartir canciones/playlists | Social | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 24 | Playlists temáticas por contexto | Vibras | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
 | 25 | Radio por canción [IA] | Vibras | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
