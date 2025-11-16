@@ -203,7 +203,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 3 | Deep links avanzados en notificaciones | Notificaciones | 5 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
 | 4 | Perfil detallado (admin) | Adm. Usuarios | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 5 | Disponibilidad por región/ventana (backoffice) | Adm. Contenido | 5 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 6 | Bloqueo/desbloqueo con alcance | Adm. Contenido | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 6 | Bloqueo/desbloqueo con alcance | Adm. Contenido | 3 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 7 | Métricas de canciones/álbumes | Métricas | 3 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 8 | Métricas de artista (panel + export) | Métricas | 5 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 9 | Colaboraciones / "Aparece en" | Artistas | 3 | ![TODO](https://img.shields.io/badge/TODO-red) | ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray) |
