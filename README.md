@@ -37,6 +37,8 @@ Actualmente la arquitectura esta formada por los siguientes servicios:
 - Firebase.
 - Datadog: Recibe los logs de todos los servicios y se generan dashboards para mejorar la visibilidad sobre todo el sistema.
 
+[Link a Datadog](https://us5.datadoghq.com/logs?query=&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice&fromUser=true&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1760482838537&to_ts=1760483738537&live=true)
+
 ## ♾️ CI/CD
 
 ![CI/CD](img/cicd.png)
