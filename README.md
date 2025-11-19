@@ -454,6 +454,109 @@ Este cronograma puede adaptarse según los resultados de cada sprint, pero sirve
 4. ✅ Integración de los endpoints de Métricas de usuario en el Backoffice.
 5. ✅ Testing de usuario de la Aplicación Móvil.
 
+### 🔹 Cuarto Checkpoint (3 semanas)
+
+1. Implementación de todas las historias optativas en la 'Aplicación Móvil' (Backend + Frontend).
+2. Implementación de todas las historias optativas en el 'Backoffice' (Backend + Frontend).
+3. Testing integral de la 'Aplicación Móvil'.
+4. Testing integral del 'Backoffice'.
+5. Corrección de bugs encontrados.
+6. Finalización de documentaciones.
+7. Preparación de la entrega final.
+
+#### Camila
+
+1. ✅ Finalización de la documentación.
+2. ✅ Preparación de la exposición para la entrega.
+3. ✅ Testing integral de la 'Aplicación Móvil'.
+4. ✅ Desarrollo del Backend para las funcionalidades de Onboarding.
+5. ✅ Desarrollo del Backend para las funcionalidades del Home.
+
+#### Esteban
+
+1. ✅ Finalización de la documentación.
+2. ✅ Preparación de la exposición para la entrega.
+3. ✅ Desarrollo del Backend para las funcionalidades opcionales para los Artistas.
+4. ✅ Desarrollo del Backend para las funcionalidades opcionales del Reproductor.
+5. ✅ Preparación de la Base de Datos para la entrega final.
+
+#### Felipe
+
+1. ✅ Finalización de la documentación.
+2. ✅ Preparación de la exposición para la entrega.
+3. ✅ Integración de las historias opcionales en la 'Aplicación Móvil'.
+4. ✅ Testing integral de la 'Aplicación Móvil'.
+5. ✅ Corrección de los bugs encontrados en la 'Aplicación Móvil'.
+
+#### Joaquín
+
+1. ✅ Finalización de la documentación.
+2. ✅ Preparación de la exposición para la entrega.
+3. ✅ Desarrollo del Backend para las funcionalidades opcionales para los Usuarios.
+4. ✅ Desarrollo del Backend para las funcionalidades opcionales para las Métricas.
+5. ✅ Desarrollo del Backend para las funcionalidades Sociales opcionales.
+
+#### Martín
+
+1. ✅ Finalización de la documentación.
+2. ✅ Preparación de la exposición para la entrega.
+3. ✅ Desarrollo del Backend para las funcionalidades opcionales para el 'Backoffice'.
+4. ✅ Integración de las historias opcionales en el 'Backoffice'.
+5. ✅ Testing integral del 'Backoffice'.
+
+## 🗓️ Retrospectiva
+
+### 🗃️ Principales lecciones aprendidas
+
+El trabajo de estos últimos 3 meses hizo que todo el equipo adquiera diversos conocimientos en diferentes áreas para alcanzar todos los requisitos solicitados.
+
+Además de las capacitaciones correspondientes a las tecnologías específicas de cada sector del desarrollo (Backend, Frontend, Bases de Datos, etc.), los principales conceptos adoptados por el equipo en su integridad fueron:
+
+#### Técnicos
+
+1. Flujos 'CI-CD'.
+2. Despliegue de servicios en la nube.
+3. Integración de componentes.
+4. Testing intensivo de servicios, aplicación y backoffice.
+5. Uso de herramientas de despliegue, integración y medición de rendimiento (AWS y Datadog).
+
+#### Equipo
+
+1. Trabajo en simultáneo sobre un mismo servicio.
+2. Definición de contratos entre diferentes componentes.
+3. Reuniones profesionales de desarrollo, que optimizan duración y utilidad de las mismas.
+4. Pair-Programming.
+5. Habilidades de capacitación hacia otros compañeros.
+
+### 📉 Objetivos descartados
+
+Durante la implementación de la aplicación, fueron descartados algunas implementaciones en post de cumplir los tiempos de entrega y ajustarse a los plazos brindados.
+
+Por lo que a continuación se detallan los features que creemos aportarían mucho valor al producto realizado:
+
+1. Sistema de notificaciones mejorado, con 'Deep Links'.
+2. Login con preveedor federado.
+3. Reproducción 'On-Demand'.
+4. Reproducción en segundo plano.
+
+### 📈 Puntos fuertes del producto
+
+Al dar por terminado el proyecto, gracias a las buenas decisiones de arquitectura y diseño tomadas, se detectaron grandes puntos fuertes en la aplicación.
+
+Principalmente se destacan los siguientes:
+
+1. Alta performance: La mayor parte del procesamiento se realiza en los microservicios, garantizando altas cotas de rendimiento en la aplicación.
+2. Arquitectura y Diseño: Desde un principio se planteó la cantidad de Microservicios adecuada, consiguiendo una distribución de responsabilidades correcta, sin exagerar el número de los mismos.
+3. Seguridad: Los sistemas de 'Autenticación' y 'Autorización' garantizan gran seguridad en el sistema, dando la tranquilidad a los usuarios de que su información está bien resguardada. La adopción temprana del 'JWT' compartido entre Microservicios y el 'API Gateway' fueron vitales para los resultados obtenidos.
+4. Datadog: La integración de todos los 'Logs' de los Microservicios en esta plataforma, la hizo una herramienta vital en el desarrollo para agilizar muchísimo el desarrollo, y comparar interacciones de múltiples Microservicios con la aplicación, en simultáneo.
+5. UX / UI: No solo se logró un diseño agradable para los usuarios. Sino que también se consiguió adoptar varios diferenciadores visuales, para darle entidad a nuestra propia marca, y no obtener una simple copia de la aplicación de referencia (Spotify).
+
+### 👨🏻‍💼 Trabajo en equipo 👩🏻‍💼
+
+Por último, se destaca el gran trabajo en equipo durante todo el desarrollo de la aplicación.
+
+Cada integrante del mismo hizo su aporte de la mejor manera posible, lo que generó un entorno de trabajo muy agradable, y que brindó grandes resultados.
+
 ## 🏆 Conclusión
 
 Este repositorio refleja la **visión global** del proyecto Melodía, alineado con las mejores prácticas de **ingeniería de software**, con foco en:  
@@ -462,4 +565,6 @@ Este repositorio refleja la **visión global** del proyecto Melodía, alineado c
 - 🧹 Calidad de código.   
 - 📖 Documentación clara.   
 
-El objetivo final es entregar un producto robusto, bien documentado y de calidad profesional, listo para ser evaluado y utilizado.  
+El objetivo final era entregar un producto robusto, bien documentado y de calidad profesional, listo para ser evaluado y utilizado.
+
+Una vez finalizado el desarrollo, se dan por cumplidas todas las expectativas, quedando mas que satisfechos por el producto realizado.
