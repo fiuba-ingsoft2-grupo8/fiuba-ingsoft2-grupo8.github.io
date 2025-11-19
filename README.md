@@ -162,9 +162,9 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 
 *Historia de usuario que no se va a implementar:* ![REJECTED](https://img.shields.io/badge/REJECTED-brown)
 
-*Historia de usuario planeada (optativas a realizar):* ![PLANNED](https://img.shields.io/badge/PLANNED-blue)
+*Historia de usuario planeada (opcionales a realizar):* ![PLANNED](https://img.shields.io/badge/PLANNED-blue)
 
-*Historia de usuario descartadas (optativas sobrantes):* ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray)
+*Historia de usuario descartadas (opcionales sobrantes):* ![DISCARDED](https://img.shields.io/badge/DISCARDED-gray)
 
 ### Historias Obligatorias
 
@@ -407,7 +407,7 @@ Este cronograma puede adaptarse según los resultados de cada sprint, pero sirve
 1. Integración de todos los logs en una única plataforma (Datadog).
 2. Implementación de todas las historias obligatorias en la 'Aplicación Móvil' (Backend + Frontend).
 3. Implementación de todas las historias obligatorias en el 'Backoffice' (Backend + Frontend).
-4. Elección de las historias optativas a implementar, en base a el MVP desarrollado.
+4. Elección de las historias opcionales a implementar, en base a el MVP desarrollado.
 5. Eliminación del microservicio 'Chat API' (Por cambio de enunciado).
 6. Añadido del sistema de autorización y autenticación en todos los microservicios.
 
@@ -456,8 +456,8 @@ Este cronograma puede adaptarse según los resultados de cada sprint, pero sirve
 
 ### 🔹 Cuarto Checkpoint (3 semanas)
 
-1. Implementación de todas las historias optativas en la 'Aplicación Móvil' (Backend + Frontend).
-2. Implementación de todas las historias optativas en el 'Backoffice' (Backend + Frontend).
+1. Implementación de todas las historias opcionales en la 'Aplicación Móvil' (Backend + Frontend).
+2. Implementación de todas las historias opcionales en el 'Backoffice' (Backend + Frontend).
 3. Testing integral de la 'Aplicación Móvil'.
 4. Testing integral del 'Backoffice'.
 5. Corrección de bugs encontrados.
