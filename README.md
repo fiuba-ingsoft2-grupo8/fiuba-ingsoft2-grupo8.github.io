@@ -150,7 +150,7 @@ Cada uno de ellos está diseñado para ser **autónomo**, alineado con las mejor
 
 La siguiente tabla presenta las historias de usuario organizadas por épicas, con su estado actual de desarrollo:
 
-*Historia de usuario sin ninguna implementación:*  ![REJECTED](https://img.shields.io/badge/REJECTED-brown)
+*Historia de usuario sin ninguna implementación:*  ![TODO](https://img.shields.io/badge/TODO-red)
 
 *Historia de usuario implementada en el Back-End:* ![WIP](https://img.shields.io/badge/WIP-yellow)
 
