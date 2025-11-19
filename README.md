@@ -1,4 +1,4 @@
-# 🎶 Proyecto Melodía – Documentación Integral
+# 🎶 Melodía – Documentación Integral
 
 Bienvenido al repositorio central de **documentación** del proyecto **Melodía**, desarrollado en el marco de la materia **Ingeniería de Software II (FIUBA)**.
 
