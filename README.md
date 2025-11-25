@@ -1,3 +1,8 @@
+---
+title: Inicio
+nav_order: 1
+---
+
 # 🎶 Melodía – Documentación Integral
 
 Bienvenido al repositorio central de **documentación** del proyecto **Melodía**, desarrollado en el marco de la materia **Ingeniería de Software II (FIUBA)**.
@@ -20,6 +25,11 @@ En este repositorio se encuentra toda la **documentación integral** relacionada
 
 La idea principal es **englobar los conceptos más grandes** y dejar asentada una planificación tentativa sobre cómo se organizará el desarrollo del trabajo práctico.
 
+---
+title: 🏗️ Arquitectura Global
+nav_order: 2
+---
+
 ## 🏗️ Arquitectura Global
 
 ![](img/arquitectura-final.png)
@@ -38,6 +48,11 @@ Actualmente la arquitectura esta formada por los siguientes servicios:
 - Datadog: Recibe los logs de todos los servicios y se generan dashboards para mejorar la visibilidad sobre todo el sistema.
 
 👉 [Link a Datadog](https://us5.datadoghq.com/logs?query=&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice&fromUser=true&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1760482838537&to_ts=1760483738537&live=true)
+
+---
+title: ♾️ CI/CD
+nav_order: 3
+---
 
 ## ♾️ CI/CD
 
@@ -94,6 +109,11 @@ Se utilizan secretos de Github para compartir variables de entorno.
 - **Build automatizado:** Generación de APK/IPA en cada release.
 - **Distribución:** Deploy manual del APK.
 
+---
+title: 🏗️ Infraestructura y Servicios
+nav_order: 4
+---
+
 ## 🏗️ Infraestructura y Servicios
 
 Nuestro ecosistema utiliza una infraestructura cloud:
@@ -136,6 +156,11 @@ Nuestro ecosistema utiliza una infraestructura cloud:
 - 🔄 **Versionado:** Gestión semántica de releases.
 - ⚡ **Optimización:** Imágenes multi-stage para reducir tamaño.
 
+---
+title: ⚙️ Microservicios Planificados
+nav_order: 5
+---
+
 ## ⚙️ Microservicios Planificados
 
 Los siguientes microservicios componen el ecosistema del proyecto:
@@ -147,6 +172,11 @@ Los siguientes microservicios componen el ecosistema del proyecto:
 - 📊 **Monitoreo.**
 
 Cada uno de ellos está diseñado para ser **autónomo**, alineado con las mejores prácticas de desarrollo distribuido.
+
+---
+title: 📚 Historias
+nav_order: 6
+---
 
 ## 📚 Historias
 
@@ -232,6 +262,11 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 28 | Onboarding: artistas favoritos | Onboarding | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 29 | Onboarding: preferencias de notificaciones | Onboarding | 1 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 
+---
+title: 📂 Repositorios del Proyecto
+nav_order: 7
+---
+
 ## 📂 Repositorios del Proyecto
 
 - 📘 **fiuba-ingsoft2-grupo8.github.io** → Repositorio actual que contiene la documentación integral.  
@@ -242,6 +277,11 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 - 👥 **user-api** → Microservicio encargado de la gestión de usuarios.
 - 🎵 **player-api** → Microservicio encargado de la gestión de reproducción.
 - 🔔 **notifications-api** → Microservicio encargado de la gestión de notificaciones.
+
+---
+title: 📅 Cronograma Tentativo
+nav_order: 8
+---
 
 ## 📅 Cronograma Tentativo
 
@@ -288,6 +328,12 @@ Este cronograma puede adaptarse según los resultados de cada sprint, pero sirve
 - 🧪 Realizar **testing masivo** de la app y el backoffice, verificando los criterios de aceptación.  
 - 📝 Confirmar que todos los **microservicios generan logs consistentes**.  
 - 📊 Verificar el correcto funcionamiento de las **métricas en todo el sistema**.  
+
+
+---
+title: 📅 Cronograma Real
+nav_order: 9
+---
 
 ## 📅 Cronograma Real
 
@@ -504,6 +550,11 @@ Este cronograma puede adaptarse según los resultados de cada sprint, pero sirve
 4. ✅ Integración de las historias opcionales en el 'Backoffice'.
 5. ✅ Testing integral del 'Backoffice'.
 
+---
+title: 📅 Retrospectiva
+nav_order: 10
+---
+
 ## 🗓️ Retrospectiva
 
 ### 🗃️ Principales lecciones aprendidas
@@ -556,6 +607,11 @@ Principalmente se destacan los siguientes:
 Por último, se destaca el gran trabajo en equipo durante todo el desarrollo de la aplicación.
 
 Cada integrante del mismo hizo su aporte de la mejor manera posible, lo que generó un entorno de trabajo muy agradable, y que brindó grandes resultados.
+
+---
+title: 🏆 Conclusión
+nav_order: 11
+---
 
 ## 🏆 Conclusión
 

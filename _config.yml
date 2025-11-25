@@ -1,0 +1,23 @@
+title: "Melodía - Documentación"
+description: "Documentación centralizada del Grupo 8"
+url: "https://fiuba-ingsoft2-grupo8.github.io"
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+color_scheme: light
+
+aux_links:
+  "Repositorio organización":
+    - "https://github.com/fiuba-ingsoft2-grupo8"
+
+nav_external_links:
+  - title: "App móvil (README)"
+    url: "https://github.com/fiuba-ingsoft2-grupo8/app-mobile-melodia/blob/main/README.md"
+    opens_in_new_tab: true
+  - title: "API / Swagger"
+    url: "https://fiuba-ingsoft2-grupo8.github.io/api-melodia-docs"
+    opens_in_new_tab: true
