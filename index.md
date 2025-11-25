@@ -11,8 +11,6 @@ Aquí se encuentran recopilados los conceptos principales, la planificación, la
 
 Cada repositorio complementario incluye documentación específica de su implementación, pero este espacio busca **unificar la visión global del proyecto**.
 
-👉 [Documentación del Proyecto](https://fiuba-ingsoft2-grupo8.github.io/)
-
 ## 📖 Introducción
 
 En este repositorio se encuentra toda la **documentación integral** relacionada al proyecto:
