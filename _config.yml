@@ -15,9 +15,21 @@ aux_links:
     - "https://github.com/fiuba-ingsoft2-grupo8"
 
 nav_external_links:
-  - title: "App móvil (README)"
-    url: "https://github.com/fiuba-ingsoft2-grupo8/app-mobile-melodia/blob/main/README.md"
+  - title: "App Mobile"
+    url: "https://github.com/fiuba-ingsoft2-grupo8/app-mobile/blob/main/Readme.md"
     opens_in_new_tab: true
-  - title: "API / Swagger"
-    url: "https://fiuba-ingsoft2-grupo8.github.io/api-melodia-docs"
+  - title: "Backoffice"
+    url: "https://github.com/fiuba-ingsoft2-grupo8/backoffice/blob/main/README.md"
+    opens_in_new_tab: true
+  - title: "Content API"
+    url: "https://github.com/fiuba-ingsoft2-grupo8/content-api/blob/main/README.md"
+    opens_in_new_tab: true
+  - title: "Notifications API"
+    url: "https://github.com/fiuba-ingsoft2-grupo8/notifications-api/blob/main/README.md"
+    opens_in_new_tab: true
+  - title: "Player API"
+    url: "https://github.com/fiuba-ingsoft2-grupo8/player-api/blob/main/README.md"
+    opens_in_new_tab: true
+  - title: "User API"
+    url: "https://github.com/fiuba-ingsoft2-grupo8/user-api/blob/main/README.md"
     opens_in_new_tab: true
