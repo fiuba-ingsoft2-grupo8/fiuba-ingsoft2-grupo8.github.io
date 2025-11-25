@@ -55,3 +55,39 @@ Principalmente se destacan los siguientes:
 Por último, se destaca el gran trabajo en equipo durante todo el desarrollo de la aplicación.
 
 Cada integrante del mismo hizo su aporte de la mejor manera posible, lo que generó un entorno de trabajo muy agradable, y que brindó grandes resultados.
+
+### 💀 Post Mortem 💀
+
+En este apartado se deja el detalle de cuales fueron los principales problemas que se encontró cada integrante durante el desarrollo del proyecto.
+
+La idea es dejar documentado cuales fueron los puntos donde se encontraron grandes dificultades de desarrollo, y que requirieron mas tiempo para ser implementados de forma correcta.
+
+#### Camila
+
+1. X.
+2. X.
+3. X.
+
+#### Esteban
+
+1. X.
+2. X.
+3. X.
+
+#### Felipe
+
+1. Aprender en profundidad todas las herramientas necesarias de 'React Native' y 'Expo'.
+2. Preparar el entorno de desarrollo para soportar tanto el uso de un emulador local, como un dispositivo externo (Celular).
+3. Integrar la 'Notifications API' con la 'App Mobile'.
+
+#### Joaquín
+
+1. X.
+2. X.
+3. X.
+
+#### Martín.
+
+1. X.
+2. X.
+3. X.
