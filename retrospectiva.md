@@ -82,9 +82,9 @@ La idea es dejar documentado cuales fueron los puntos donde se encontraron grand
 
 #### Joaquín
 
-1. X.
-2. X.
-3. X.
+1. Armar los workflows de deploy de cada API
+2. Configurar el API Gateway
+3. Implementar autenticación con JWT que funcione a traves de todas las APIs
 
 #### Martín.
 
