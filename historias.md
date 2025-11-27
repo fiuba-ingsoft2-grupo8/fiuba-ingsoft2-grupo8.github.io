@@ -65,7 +65,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 6 | Bloqueo/desbloqueo con alcance | Adm. Contenido | 3 | ![DONE](https://img.shields.io/badge/DONE-green) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 7 | Métricas de canciones/álbumes | Métricas | 3 | ![DONE](https://img.shields.io/badge/DONE-green) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 8 | Métricas de artista (panel + export) | Métricas | 5 | ![DONE](https://img.shields.io/badge/DONE-green) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 9 | Colaboraciones / "Aparece en" | Artistas | 3 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
+| 9 | Colaboraciones / "Aparece en" | Artistas | 3 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![DISCARD](https://img.shields.io/badge/PLANNED-blue) |
 | 10 | Disponibilidad por territorios/ventana (creators) | Artistas | 3 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 11 | Autocompletar metadatos (Fast Complete) [IA] | Artistas | 5 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
 | 12 | Artistas relacionados (Similares a) | Artistas | 4 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
@@ -86,4 +86,5 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 27 | Onboarding: géneros favoritos | Onboarding | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 28 | Onboarding: artistas favoritos | Onboarding | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 29 | Onboarding: preferencias de notificaciones | Onboarding | 1 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+
 
