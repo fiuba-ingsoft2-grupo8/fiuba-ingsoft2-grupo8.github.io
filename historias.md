@@ -83,6 +83,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 24 | Playlists temáticas por contexto | Vibras | 3 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
 | 25 | Radio por canción [IA] | Vibras | 3 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
 | 26 | Auto Play (nuevo contexto de 15 canciones) [IA] | Vibras | 3 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
-| 27 | Onboarding: géneros favoritos | Onboarding | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 28 | Onboarding: artistas favoritos | Onboarding | 2 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 29 | Onboarding: preferencias de notificaciones | Onboarding | 1 | ![WIP](https://img.shields.io/badge/WIP-yellow) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 27 | Onboarding: géneros favoritos | Onboarding | 2 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 28 | Onboarding: artistas favoritos | Onboarding | 2 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 29 | Onboarding: preferencias de notificaciones | Onboarding | 1 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+
