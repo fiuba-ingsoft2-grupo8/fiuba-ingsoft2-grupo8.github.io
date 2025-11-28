@@ -71,8 +71,8 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 12 | Artistas relacionados (Similares a) | Artistas | 4 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 13 | Explorar Home (base) | Explorar | 3 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 14 | "New release from {Artist}" | Explorar | 2 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 15 | "Discover more from {Artist}" | Explorar | 2 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
-| 16 | Made For You (Discover/Daily Mix) | Explorar | 8 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
+| 15 | "Discover more from {Artist}" | Explorar | 2 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 16 | Made For You (Discover/Daily Mix) | Explorar | 8 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 17 | Mood Mixes asistidos [IA] | Biblioteca | 5 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
 | 18 | Videos musicales asociados | Reproducción | 8 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 19 | Reproducción On-Demand (multidispositivo) | Reproducción | 5 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
@@ -86,6 +86,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 27 | Onboarding: géneros favoritos | Onboarding | 2 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 28 | Onboarding: artistas favoritos | Onboarding | 2 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 29 | Onboarding: preferencias de notificaciones | Onboarding | 1 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+
 
 
 
