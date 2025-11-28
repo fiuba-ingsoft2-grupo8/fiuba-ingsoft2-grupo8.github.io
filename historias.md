@@ -56,7 +56,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 ### Historias Opcionales (Se requieren 50 puntos)
 
 | # | Historia | Épica | Puntos | Estado | Decisión |
-|---|----------|-------|--------|--------|----------|
+|---|----------|-------|------|--------|----------|
 | 1 | Login con proveedor federado | Usuarios | 2 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
 | 2 | Ver perfil de otros usuarios | Perfil | 2 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 3 | Deep links avanzados en notificaciones | Notificaciones | 5 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
@@ -86,4 +86,5 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 27 | Onboarding: géneros favoritos | Onboarding | 2 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 28 | Onboarding: artistas favoritos | Onboarding | 2 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 29 | Onboarding: preferencias de notificaciones | Onboarding | 1 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+
 
