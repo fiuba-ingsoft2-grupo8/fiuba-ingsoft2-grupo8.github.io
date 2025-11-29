@@ -64,15 +64,15 @@ La idea es dejar documentado cuales fueron los puntos donde se encontraron grand
 
 #### Camila
 
-1. X.
-2. X.
-3. X.
+1. Primera experiencia real construyendo y consumiendo 'APIs'.
+2. Añadido de nuevas funcionalidades con un estado muy avanzado del proyecto.
+3. Aprender a usar la herramienta 'Figma' para diseños 'UX/UI'.
 
 #### Esteban
 
-1. X.
-2. X.
-3. X.
+1. Aprender a trabajar con múltiples 'APIs' al mismo tiempo.
+2. Manejo de autenticación y 'JWTs'.
+3. Mantener la coherencia entre entorno local y remoto.
 
 #### Felipe
 
@@ -82,12 +82,12 @@ La idea es dejar documentado cuales fueron los puntos donde se encontraron grand
 
 #### Joaquín
 
-1. Armar los workflows de deploy de cada API
-2. Configurar el API Gateway
-3. Implementar autenticación con JWT que funcione a traves de todas las APIs
+1. Armar los workflows de deploy de cada 'API'.
+2. Configurar el 'API Gateway'.
+3. Implementar autenticación con JWT que funcione a traves de todas las'APIs'.
 
 #### Martín.
 
-1. X.
-2. X.
-3. X.
+1. Adaptación a 'Next.js App Router'.
+2. Configuración del entorno local con 'Docker' y comunicación con la 'API' de usuarios.
+3. Automatización del despliegue en 'AWS' con 'CI/CD' (Docker + GitHub Actions).
