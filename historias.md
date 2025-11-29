@@ -53,7 +53,7 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 26 | Toggle de Liked desde el player | Reproducción | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 | 27 | Métricas de usuario (panel + export) | Métricas | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) |
 
-### Historias Opcionales (Se requieren 50 puntos)
+### Historias Opcionales (Se requieren 50 puntos - 10 por integrante)
 
 | # | Historia | Épica | Puntos | Estado | Decisión |
 |---|----------|-------|--------|--------|----------|
@@ -63,23 +63,23 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 4 | Perfil detallado (admin) | Adm. Usuarios | 2 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 5 | Disponibilidad por región/ventana (backoffice) | Adm. Contenido | 5 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 6 | Bloqueo/desbloqueo con alcance | Adm. Contenido | 3 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 7 | Métricas de canciones/álbumes | Métricas | 3 | ![DONE](https://img.shields.io/badge/DONE-green) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 8 | Métricas de artista (panel + export) | Métricas | 5 | ![DONE](https://img.shields.io/badge/DONE-green) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 7 | Métricas de canciones/álbumes | Métricas | 3 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 8 | Métricas de artista (panel + export) | Métricas | 5 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 9 | Colaboraciones / "Aparece en" | Artistas | 3 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 10 | Disponibilidad por territorios/ventana (creators) | Artistas | 3 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 11 | Autocompletar metadatos (Fast Complete) [IA] | Artistas | 5 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
 | 12 | Artistas relacionados (Similares a) | Artistas | 4 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 13 | Explorar Home (base) | Explorar | 3 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 14 | "New release from {Artist}" | Explorar | 2 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 15 | "Discover more from {Artist}" | Explorar | 2 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 15 | "Discover more from {Artist}" | Explorar | 2 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
 | 16 | Made For You (Discover/Daily Mix) | Explorar | 8 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 17 | Mood Mixes asistidos [IA] | Biblioteca | 5 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
 | 18 | Videos musicales asociados | Reproducción | 8 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 19 | Reproducción On-Demand (multidispositivo) | Reproducción | 5 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
 | 20 | Reproducción continua (autoplay sin cola) [IA] | Reproducción | 3 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
 | 21 | Seguir/Dejar de seguir usuarios | Social | 2 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 22 | Feed de actividad de amigos (+ filtros) | Social | 3 | ![DONE](https://img.shields.io/badge/DONE-green) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
-| 23 | Compartir canciones/playlists | Social | 2 | ![DONE](https://img.shields.io/badge/DONE-green) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 22 | Feed de actividad de amigos (+ filtros) | Social | 3 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
+| 23 | Compartir canciones/playlists | Social | 2 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 24 | Playlists temáticas por contexto | Vibras | 3 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
 | 25 | Radio por canción [IA] | Vibras | 3 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
 | 26 | Auto Play (nuevo contexto de 15 canciones) [IA] | Vibras | 3 | ![REJECTED](https://img.shields.io/badge/REJECTED-brown) | ![DISCARD](https://img.shields.io/badge/DISCARD-gray) |
@@ -87,8 +87,9 @@ La siguiente tabla presenta las historias de usuario organizadas por épicas, co
 | 28 | Onboarding: artistas favoritos | Onboarding | 2 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 | 29 | Onboarding: preferencias de notificaciones | Onboarding | 1 | ![FINISHED](https://img.shields.io/badge/FINISHED-purple) | ![PLANNED](https://img.shields.io/badge/PLANNED-blue) |
 
+Lo que nos da un total de '63' puntos de historias optativas.
 
-
+Este es uno de los puntos que mas se destacan del desarrollo, ya que se consiguió cumplir por encima de lo que representaría incluso a un grupo de 6 integrantes.
 
 
 
