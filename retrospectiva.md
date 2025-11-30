@@ -36,7 +36,6 @@ Por lo que a continuación se detallan los features que creemos aportarían much
 1. Sistema de notificaciones mejorado, con 'Deep Links'.
 2. Login con preveedor federado.
 3. Reproducción 'On-Demand'.
-4. Reproducción en segundo plano.
 
 ### 📈 Puntos fuertes del producto
 
@@ -91,3 +90,4 @@ La idea es dejar documentado cuales fueron los puntos donde se encontraron grand
 1. Adaptación a 'Next.js App Router'.
 2. Configuración del entorno local con 'Docker' y comunicación con la 'API' de usuarios.
 3. Automatización del despliegue en 'AWS' con 'CI/CD' (Docker + GitHub Actions).
+
